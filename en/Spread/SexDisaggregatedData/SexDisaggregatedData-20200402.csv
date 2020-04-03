@@ -1,0 +1,41 @@
+Country,ConfirmedCasesTotal,ConfirmedCasesPercentMale,ConfirmedCasesPercentFemale,DeathTotal,DeathsPercentMale,DeathsPercentFemale,TotalPropOfDeathAmongConfirmedCases,PropOfDeathAmongConfirmedCasesMale,PropOfDeathAmongConfirmedCasesFemale,PropOfDeathAmongConfirmedCasesMFratio
+USA,"163,539",na,na,2860,na,na,1.70%,na,na,na
+Italy,"94,312",56%,44%,10026,69%,31%,10.60%,13.30%,7.40%,1.79
+Spain,"69,177",49%,51%,4631,62%,36%,6.70%,8.40%,4.70%,1.79
+Germany,"61,913",52%,48%,583,66%,34%,0.90%,1.20%,0.70%,1.77
+China,"55,924",51%,49%,2114,64%,36%,3.80%,4.70%,2.80%,1.68
+UK,"25,150",na,na,1789,na,na,7.10%,na,na,na
+Switzerland,"16,176",48%,52%,373,61%,39%,2.30%,2.90%,1.70%,1.7
+Pakistan,"15,709",na,na,25,na,na,0.20%,na,na,na
+Iran,"14,991",57%,43%,853,59%,41%,5.70%,5.90%,5.40%,1.09
+Belgium,"13,964",47%,52%,828,58%,41%,5.90%,7.20%,4.70%,1.53
+The Netherlands,"13,614",50%,50%,1173,61%,39%,8.60%,10.60%,6.60%,1.6
+Turkey,"13,531",na,na,214,na,na,1.60%,na,na,na
+Austria,"10,372",51%,49%,146,na,na,1.40%,na,na,na
+South Korea,"9,887",40%,60%,165,51%,49%,1.70%,2.10%,1.40%,1.56
+Portugal,"8,251",45%,54%,187,59%,41%,2.30%,3.00%,1.70%,1.79
+Canada,"7,708",51%,49%,89,,,1.20%,na,na,na
+France,"6,378",47%,53%,161,58%,42%,2.50%,3.10%,2.00%,1.55
+Brazil,"5,717",na,na,201,na,na,3.50%,na,na,na
+Israel,"5,591",na,na,21,na,na,0.40%,na,na,na
+Norway,"4,655",51%,49%,28,na,na,0.60%,na,na,na
+Sweden,"4,435",53%,48%,180,58%,42%,4.10%,4.50%,3.60%,1.27
+Australia,"4,325",51%,49%,20,na,na,0.50%,na,na,na
+Czech Republic,"3,300",45%,42%,32,na,na,1.00%,na,na,na
+Ireland,"2,990",49%,50%,85,69%,31%,2.80%,4.00%,1.70%,2.33
+Malaysia,2908,na,na,45,na,na,1.50%,na,na,na
+Russia,2765,na,na,24,na,na,0.90%,na,na,na
+Poland,2420,na,na,36,na,na,1.50%,na,na,na
+Chile,2373,50%,50%,12,na,na,0.50%,na,na,na
+Philippines,2311,62%,38%,96,75%,25%,4.20%,5.10%,2.70%,1.87
+Ecuador,2302,54%,46%,77,na,na,3.30%,na,na,na
+Romania,2245,41%,55%,82,na,na,3.70%,na,na,na
+Luxembourg,2178,na,na,23,na,na,1.10%,na,na,na
+Denmark,1715,60%,40%,34,71%,29%,2.00%,2.30%,1.50%,1.6
+Japan,1594,58%,42%,52,na,na,3.30%,na,na,na
+Thailand,1524,60%,40%,9,na,na,0.60%,na,na,na
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+na,,,,,,,,,,
