@@ -1,6 +1,6 @@
 <p>
 
-able 1: Indicators and coding instructions 
+Table 1: Indicators and coding instructions 
  
  
 ID 
