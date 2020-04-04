@@ -1,4 +1,4 @@
-Country,ConfirmedCasesTotal,ConfirmedCasesPercentMale,ConfirmedCasesPercentFemale,DeathTotal,DeathsPercentMale,DeathsPercentFemale,TotalPropOfDeathAmongConfirmedCases,PropOfDeathAmongConfirmedCasesMale,PropOfDeathAmongConfirmedCasesFemale,PropOfDeathAmongConfirmedCasesMFratio
+Country,ConfirmedCasesTotal,ConfirmedCasesMale,ConfirmedCasesFemale,DeathTotal,DeathsMale,DeathsFemale,TotalDeathAmongConfirmedCases,DeathAmongConfirmedCasesMale,DeathAmongConfirmedCasesFemale,DeathAmongConfirmedCasesMFratio
 USA,"163,539",na,na,2860,na,na,1.70%,na,na,na
 Italy,"94,312",56%,44%,10026,69%,31%,10.60%,13.30%,7.40%,1.79
 Spain,"69,177",49%,51%,4631,62%,36%,6.70%,8.40%,4.70%,1.79
@@ -34,8 +34,3 @@ Luxembourg,2178,na,na,23,na,na,1.10%,na,na,na
 Denmark,1715,60%,40%,34,71%,29%,2.00%,2.30%,1.50%,1.6
 Japan,1594,58%,42%,52,na,na,3.30%,na,na,na
 Thailand,1524,60%,40%,9,na,na,0.60%,na,na,na
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-na,,,,,,,,,,
