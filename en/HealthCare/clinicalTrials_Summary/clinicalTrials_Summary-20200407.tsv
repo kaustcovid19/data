@@ -1,47 +1,47 @@
 #1.Counts	ClinicalTrial_Status	ClinicalTrial_Results
-99	Not yet recruiting	No Results Available
-57	Recruiting	No Results Available
-6	Active, not recruiting	No Results Available
+96	Not yet recruiting	No Results Available
+64	Recruiting	No Results Available
+8	Active, not recruiting	No Results Available
 4	Enrolling by invitation	No Results Available
+4	Available	No Results Available
 3	Withdrawn	No Results Available
-3	Available	No Results Available
 2	Completed	No Results Available
 -e 
 #2.Counts	ClinicalTrial Start Date
-130	March  2020
-82	April  2020
-50	February  2020
-33	April 2020
+135	March  2020
+96	April  2020
+51	February  2020
+41	April 2020
 17	January  2020
-10	March 2020
+8	March 2020
 3	February 2020
 2	May 2020
 -e 
 #3.Counts	ClinicalTrial End Date
-21	May  2020
-21	December  2020
-19	June  2020
-19	July  2020
-15	April  2020
+25	May  2020
+23	December  2020
+22	July  2020
+21	June  2020
+18	April  2020
 13	September  2020
+12	November  2020
 12	March  2020
-11	November  2020
-11	August  2020
+12	August  2020
+11	May 2020
 10	October  2020
-10	May 2020
-8	December 2020
+9	December 2020
 6	September 2020
+6	July 2020
 5	October 2020
-4	July 2020
+4	November 2020
 4	February  2020
-3	November 2020
+4	August 2020
 3	June 2020
-3	August 2020
 3	April 2020
 1	March 2020
 -e 
 4.Counts	Drugs in clinical trials
-21	Hydroxychloroquine
+22	Hydroxychloroquine
 7	Remdesivir
 6	Tocilizumab
 5	Lopinavir/ritonavir
@@ -53,10 +53,12 @@
 3	Azithromycin
 2	Tocilizumab (TCZ)
 2	Sarilumab
+2	Ruxolitinib
 2	PUL-042 Inhalation Solution
 2	Plasma
 2	Nitric Oxide Gas
 2	Nitric Oxide
+2	Favipiravir
 2	Dexamethasone
 2	Chloroquine phosphate
 2	BCG Vaccine
@@ -81,7 +83,6 @@
 1	Sarilumab SAR153191
 1	Sargramostim
 1	Ruxolitinib Oral Tablet
-1	Ruxolitinib
 1	RoActemra iv
 1	RhACE2 APN01
 1	Recombinant human interferon α1β
@@ -95,11 +96,13 @@
 1	Oral
 1	N-acetylcysteine+ Fuzheng Huayu Tablet
 1	methylprednisolone therapy
+1	Mavrilimumab
 1	Low-dose chloroquine/hydroxychloroquine
 1	Lopinavir / ritonavir tablets combined with Xiyanping injection
 1	lopinavir/ritonavir
 1	Levamisole Pill + Budesonide+Formoterol inhaler
 1	Intravenous Immunoglobulin
+1	INO-4800
 1	Injection
 1	Inhaled nitric oxide gas
 1	Inhalation
@@ -113,11 +116,11 @@
 1	Hydroxychloroquine as post exposure prophylaxis
 1	Hydroxychloroquine 200 Mg Oral Tablet
 1	Huaier Granule
+1	High dose vitamin C
 1	Ganovo+ritonavir+/-Interferon nebulization
 1	Fixed-duration Hydrocortisone
 1	Fingolimod 0.5 mg
 1	Favipiravir Combined With Tocilizumab
-1	Favipiravir
 1	Experimental group
 1	Escin
 1	Emtricitabine/tenofovir disoproxil
