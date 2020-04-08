@@ -1,4 +1,4 @@
-Category,Hotwords,Rate
+Category,Rate,Hotwords
 anger,0.102,"[('good', 188), ('work', 184), ('spread', 171), ('hand', 163), ('health', 160), ('test', 153), ('dont', 128), ('case', 127), ('stay', 125), ('great', 118), ('hope', 118), ('outbreak', 117), ('update', 104), ('safe', 100), ('wash', 93), ('news', 91), ('love', 90), ('fight', 88), ('protect', 84), ('flu', 80)]"
 anticipation,0.0,[]
 disgust,0.2624,"[('test', 544), ('spread', 490), ('dont', 478), ('case', 443), ('quarantine', 430), ('market', 392), ('death', 389), ('outbreak', 347), ('china', 344), ('flu', 341), ('country', 339), ('cancel', 329), ('italy', 323), ('oil', 300), ('health', 296), ('bad', 288), ('hand', 278), ('stock', 268), ('price', 263), ('work', 260)]"
