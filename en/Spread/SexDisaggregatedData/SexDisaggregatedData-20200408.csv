@@ -1,0 +1,42 @@
+Country,SexDisaggregated,Date,TotalCases,PercentCasesMale,PercentCasesFemale,Deaths,PercentDeathsMale,PercentDeathsFemale,DeathsAmongConfirmedCasesTotal,DeathsAmongConfirmedCasesMale,DeathsInConfirmedCasesFemale,DeathsInConfirmedCasesMFRatio,Sources
+Denmark,Yes,07.04.20,"4,978.00",46,54,203,64,36,4.10%,5.70%,2.70%,2.1,Source
+Greece,Yes,06.04.20,"17,551.00",55,45,79,72,28,0.50%,0.60%,0.30%,2.1,Source
+Republic of Ireland,Yes,07.04.20,"5,709.00",45,52,210,63,37,3.70%,5.10%,2.60%,2,Source
+Italy,Yes,06.04.20,"124,527.00",53,47,"14,860",68,32,11.90%,15.20%,8.20%,1.9,Source
+Switzerland,Yes,07.04.20,"22,242.00",47,53,641,62,38,2.90%,3.80%,2.10%,1.9,Source
+Spain*,Yes,07.04.20,"88,144.00",49,51,"4,978",63,37,5.60%,7.30%,4.10%,1.8,Source
+The Netherlands,Yes,07.04.20,"19,580.00",47,53,"2,101",61,39,10.70%,14.00%,7.80%,1.8,Source
+Peru,Yes,07.04.20,"2,561.00",58,42,92,72,28,3.60%,3.80%,2.10%,1.8,Source
+Belgium,Yes,06.04.20,"22,194.00",45,55,"2,035",50,37,9.20%,10.20%,6.10%,1.7,Source
+Chi,Yes,28.02.20,"55,924.00",51,49,"2,114",64,36,3.80%,4.70%,2.80%,1.7,Source
+Germany,Yes,07.04.20,"99,225.00",50,50,"1,607",63,37,1.60%,2.00%,1.20%,1.7,Source
+South Korea,Yes,07.04.20,"10,331.00",40,60,192,53,47,1.90%,2.40%,1.50%,1.7,Source
+Portugal,Yes,07.04.20,"12,442.00",43,57,345,54,46,2.80%,3.50%,2.20%,1.6,Source
+Australia,Yes,07.04.20,"5,908.00",48,47,43,60,40,0.70%,0.90%,0.60%,1.5,Source
+Sweden,Yes,07.04.20,"7,693.00",50,50,591,60,40,7.70%,9.20%,6.10%,1.5,Source
+Canada*,Yes,06.04.20,"8,797.00",48,52,82,56,44,0.90%,1.10%,0.80%,1.4,Source
+Norway,Yes,06.04.20,"5,863.00",50,50,69,54,46,1.20%,1.30%,1.10%,1.2,Source
+Iran,Yes,17.03.20,"14,991.00",57,43,853,59,41,5.70%,5.90%,5.40%,1.1,Source
+Austria,No,08.04.20,"12,721.00",50,50,273,,,2.10%,,,,Source
+Brazil,No,06.04.20,"12,056.00",,,553,,,4.60%,,,,Source
+Chile,Partial,05.04.20,"4,346.00",50,50,37,,,0.90%,,,,Source
+Czech Republic,Partial,07.04.20,"4,568.00",49,51,80,,,1.80%,,,,Source
+Ecuador,Partial,06.04.20,"3,747.00",55,45,191,,,5.10%,,,,Source
+Finland,Partial,07.04.20,"2,308.00",50,50,34,,,1.50%,,,,Source
+France***,Yes,07.04.20,"78,167.00",,,"7,091",61,39,9.10%,,,,Source
+Indonesia,No,07.04.20,"2,738.00",,,221,,,8.10%,,,,Source
+Israel,No,07.04.20,"9,248.00",,,65,,,0.70%,,,,Source
+Japan,Partial,04.04.20,"3,404.00",60,40,69,,,2.00%,,,,Source
+Luxembourg,No,06.04.20,"2,843.00",,,41,,,1.40%,,,,Source
+Malaysia,No,06.04.20,"3,793.00",,,62,,,1.60%,,,,Source
+Pakistan,Partial,07.04.20,"4,004.00",72,28,55,,,1.40%,,,,Source
+Philippines,Partial,07.04.20,"3,764.00",60,40,177,,,4.70%,,,,Source
+Poland,No,07.04.20,"4,666.00",,,129,,,2.80%,,,,Source
+Romania,Partial,30.03.20,"1,952.00",41,55,46,,,2.40%,,,,Source
+Russia,No,07.04.20,"7,497.00",,,58,,,0.80%,,,,Source
+Saudi Arabia,No,07.04.20,"2,463.00",,,34,,,1.40%,,,,Source
+Thailand,Partial,04.04.20,"2,067.00",54,42,20,,,1.00%,,,,Source
+Turkey,No,06.04.20,"30,217.00",,,649,,,2.10%,,,,Source
+UK**,Partial,27.03.20,,,,"6,159",61,39,,,,,Source
+USA,No,06.04.20,"330,891.00",,,"8,910",,,2.70%,,,,Source
+Mexico,No,06.04.20,"2,439.00",,,125,,,5.10%,,,,Source
