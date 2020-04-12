@@ -1,4 +1,4 @@
-"Country","Date","fips","Cases","Cases_daily","time","Cases_log","Cases_sum","n","coef.intercept","Exp_rate"
+"State","Date","fips","Cases","Cases_daily","time","Cases_log","Cases_sum","n","coef.intercept","Exp_rate"
 "Alabama",2020-03-20,"01",106,28,1,4.66343909411207,3008,22,NA,NA
 "Alabama",2020-03-21,"01",131,25,2,4.87519732320115,3008,22,NA,NA
 "Alabama",2020-03-22,"01",157,26,3,5.05624580534831,3008,22,NA,NA

@@ -1,4 +1,4 @@
-"Country","Date","fips","Deaths","Deaths_daily","time","Deaths_log","Deaths_sum","n","coef.intercept","Exp_rate"
+"State","Date","fips","Deaths","Deaths_daily","time","Deaths_log","Deaths_sum","n","coef.intercept","Exp_rate"
 "California",2020-03-16,"06",11,5,1,2.39789527279837,594,26,NA,NA
 "California",2020-03-17,"06",14,3,2,2.63905732961526,594,26,NA,NA
 "California",2020-03-18,"06",17,3,3,2.83321334405622,594,26,NA,NA
