@@ -15,8 +15,8 @@
 |Field| Description|
 |--|--|
 | SubredditName | Name of the subreddit |
-| SubredditCovidComments | Number of comments mentioning word "covid" in that subreddit |
-|SubredditTotalComments|Total number of comments in that subreddit|
+| SubredditCovidComments | Number of **comments** mentioning word "covid" in that subreddit |
+|SubredditTotalComments|Total number of **comments** in that subreddit|
 |CovidPct|100*(SubredditCovidComments/SubredditTotalComments ) [%]|
 
 
