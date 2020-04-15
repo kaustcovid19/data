@@ -11,7 +11,9 @@ Initial Claims	: $
 Update frequency :
 Weekly (but usually takes 12 days to update)
 
-NOTE : By the time the next weekly update is recieved it is observed that Government performs some adjustments to the previous week figures too!
+NOTE : 
+(1)By the time the next weekly update is recieved it is observed that Government performs some adjustments to the previous week figures too!
+(2) Its a Seasonally Adjusted Data
 
 Data sources:
 https://www.dol.gov/ui/data.pdf

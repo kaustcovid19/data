@@ -6,7 +6,9 @@ File naming convention:
 
 Field description:
 IncomeScenario	: Low, Mid, High
-RiseInGlobalUnemployment: In Million
+RiseInGlobalUnemployBestEstimate 	: In Million	
+RiseInGlobalUnemployMin			: In Million
+RiseInGlobalUnemployMax			: In Million
 
 Note : The numbers mentioned are "net rise" from a base level of 188 million in 2019
 
@@ -17,3 +19,4 @@ Data sources:
 Source: ILO
 https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_738753.pdf
 https://www.aa.com.tr/en/economy/un-body-warns-of-up-to-25m-job-losses-due-to-covid-19/1771040
+https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_739050/lang--en/index.htm#3
