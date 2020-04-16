@@ -14,13 +14,16 @@ PercentCasesFemale
 Deaths	
 PercentDeathsMale		: %
 PercentDeathsFemale		: %
-DeathsAmongConfirmedCasesTotal	
-DeathsAmongConfirmedCasesMale	
-DeathsInConfirmedCasesFemale	
+DeathsAmongConfirmedCasesTotal	: % {Column missing in the 15 April 2020 data}
+DeathsAmongConfirmedCasesMale	: %
+DeathsInConfirmedCasesFemale	: %
 DeathsInConfirmedCasesMFRatio	
 Sources
 
-Note :
+Note 1 :
+15 April 2020 data update -  Column "DeathsAmongConfirmedCasesTotal" doesn't exist .
+
+Note 2 :
 *For these countries, these figures represent a proportion of overall cases where sex-disaggregated data is collected and reported 
 
 **The UK data on deaths is taken from ONS reporting for England and Wales. This represents a small proportion of current deaths in England and Wales (and does not cover data for Scotland and Northern Ireland). The most recent ONS data reports deaths from the week of the 27 March. There is no data available on cases disaggregated by sex. Given that this data is weeks old, it has not been presented alongside current case data. 
