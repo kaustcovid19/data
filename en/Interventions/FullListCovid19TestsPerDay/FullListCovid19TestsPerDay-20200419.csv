@@ -1,0 +1,2363 @@
+Entity,Code,Date,DailyChangeInTotalTests
+Argentina,ARG,09-Apr-20,1520
+Argentina,ARG,10-Apr-20,1529
+Argentina,ARG,11-Apr-20,1648
+Argentina,ARG,14-Apr-20,3047
+Argentina,ARG,15-Apr-20,1569
+Argentina,ARG,16-Apr-20,2083
+Argentina,ARG,17-Apr-20,2193
+Argentina,ARG,18-Apr-20,2292
+Argentina,ARG,19-Apr-20,1770
+Australia,AUS,31-Jan-20,17
+Australia,AUS,01-Feb-20,19
+Australia,AUS,02-Feb-20,15
+Australia,AUS,03-Feb-20,33
+Australia,AUS,04-Feb-20,36
+Australia,AUS,05-Feb-20,130
+Australia,AUS,06-Feb-20,17
+Australia,AUS,07-Feb-20,54
+Australia,AUS,08-Feb-20,169
+Australia,AUS,09-Feb-20,74
+Australia,AUS,10-Feb-20,38
+Australia,AUS,11-Feb-20,51
+Australia,AUS,12-Feb-20,169
+Australia,AUS,13-Feb-20,106
+Australia,AUS,14-Feb-20,142
+Australia,AUS,17-Feb-20,11
+Australia,AUS,18-Feb-20,108
+Australia,AUS,19-Feb-20,274
+Australia,AUS,20-Feb-20,171
+Australia,AUS,21-Feb-20,152
+Australia,AUS,22-Feb-20,64
+Australia,AUS,23-Feb-20,147
+Australia,AUS,24-Feb-20,34
+Australia,AUS,25-Feb-20,194
+Australia,AUS,26-Feb-20,185
+Australia,AUS,06-Mar-20,137
+Australia,AUS,07-Mar-20,4455
+Australia,AUS,08-Mar-20,1231
+Australia,AUS,09-Mar-20,627
+Australia,AUS,10-Mar-20,1339
+Australia,AUS,11-Mar-20,60
+Australia,AUS,12-Mar-20,1901
+Australia,AUS,13-Mar-20,5561
+Australia,AUS,14-Mar-20,4854
+Australia,AUS,15-Mar-20,1817
+Australia,AUS,16-Mar-20,18842
+Australia,AUS,17-Mar-20,6287
+Australia,AUS,18-Mar-20,29611
+Australia,AUS,19-Mar-20,26030
+Australia,AUS,20-Mar-20,7020
+Australia,AUS,21-Mar-20,9669
+Australia,AUS,22-Mar-20,8762
+Australia,AUS,23-Mar-20,12467
+Australia,AUS,24-Mar-20,12180
+Australia,AUS,25-Mar-20,11301
+Australia,AUS,26-Mar-20,10903
+Australia,AUS,27-Mar-20,11295
+Australia,AUS,28-Mar-20,15657
+Australia,AUS,29-Mar-20,22130
+Australia,AUS,30-Mar-20,4836
+Australia,AUS,31-Mar-20,10810
+Australia,AUS,01-Apr-20,13709
+Australia,AUS,02-Apr-20,9998
+Australia,AUS,03-Apr-20,10218
+Australia,AUS,04-Apr-20,8473
+Australia,AUS,05-Apr-20,7719
+Australia,AUS,06-Apr-20,8872
+Australia,AUS,07-Apr-20,6525
+Australia,AUS,08-Apr-20,11281
+Australia,AUS,09-Apr-20,10260
+Australia,AUS,10-Apr-20,8212
+Australia,AUS,11-Apr-20,12358
+Australia,AUS,12-Apr-20,3237
+Australia,AUS,13-Apr-20,8195
+Australia,AUS,14-Apr-20,4357
+Australia,AUS,15-Apr-20,4884
+Australia,AUS,16-Apr-20,8626
+Australia,AUS,17-Apr-20,11527
+Australia,AUS,18-Apr-20,14980
+Australia,AUS,19-Apr-20,14486
+Austria,AUT,26-Feb-20,103
+Austria,AUT,27-Feb-20,126
+Austria,AUT,28-Feb-20,316
+Austria,AUT,29-Feb-20,886
+Austria,AUT,04-Mar-20,455
+Austria,AUT,05-Mar-20,573
+Austria,AUT,06-Mar-20,289
+Austria,AUT,07-Mar-20,308
+Austria,AUT,08-Mar-20,201
+Austria,AUT,09-Mar-20,225
+Austria,AUT,10-Mar-20,292
+Austria,AUT,11-Mar-20,336
+Austria,AUT,12-Mar-20,507
+Austria,AUT,13-Mar-20,713
+Austria,AUT,14-Mar-20,885
+Austria,AUT,15-Mar-20,700
+Austria,AUT,16-Mar-20,323
+Austria,AUT,17-Mar-20,1788
+Austria,AUT,18-Mar-20,1699
+Austria,AUT,19-Mar-20,1747
+Austria,AUT,20-Mar-20,1889
+Austria,AUT,21-Mar-20,2932
+Austria,AUT,22-Mar-20,2823
+Austria,AUT,23-Mar-20,2061
+Austria,AUT,24-Mar-20,4962
+Austria,AUT,25-Mar-20,4016
+Austria,AUT,26-Mar-20,3588
+Austria,AUT,27-Mar-20,3557
+Austria,AUT,28-Mar-20,3198
+Austria,AUT,29-Mar-20,3691
+Austria,AUT,30-Mar-20,3014
+Austria,AUT,31-Mar-20,2889
+Austria,AUT,01-Apr-20,3519
+Austria,AUT,02-Apr-20,36327
+Austria,AUT,03-Apr-20,6153
+Austria,AUT,04-Apr-20,5791
+Austria,AUT,05-Apr-20,4282
+Austria,AUT,06-Apr-20,2880
+Austria,AUT,07-Apr-20,3939
+Austria,AUT,08-Apr-20,5520
+Austria,AUT,09-Apr-20,5532
+Austria,AUT,10-Apr-20,8456
+Austria,AUT,11-Apr-20,6232
+Austria,AUT,12-Apr-20,3902
+Austria,AUT,13-Apr-20,3535
+Austria,AUT,14-Apr-20,3384
+Austria,AUT,15-Apr-20,5005
+Austria,AUT,16-Apr-20,6015
+Austria,AUT,17-Apr-20,6456
+Austria,AUT,18-Apr-20,6660
+Bahrain,BHR,10-Mar-20,524
+Bahrain,BHR,11-Mar-20,456
+Bahrain,BHR,12-Mar-20,232
+Bahrain,BHR,17-Mar-20,1422
+Bahrain,BHR,30-Mar-20,701
+Bahrain,BHR,04-Apr-20,1260
+Bahrain,BHR,05-Apr-20,5130
+Bahrain,BHR,06-Apr-20,3298
+Bahrain,BHR,07-Apr-20,2443
+Bahrain,BHR,08-Apr-20,2677
+Bahrain,BHR,09-Apr-20,2292
+Bahrain,BHR,10-Apr-20,2585
+Bahrain,BHR,11-Apr-20,3025
+Bahrain,BHR,12-Apr-20,3267
+Bahrain,BHR,13-Apr-20,3354
+Bahrain,BHR,14-Apr-20,3486
+Bahrain,BHR,15-Apr-20,2459
+Bahrain,BHR,16-Apr-20,3672
+Bahrain,BHR,17-Apr-20,2668
+Bahrain,BHR,18-Apr-20,2956
+Bahrain,BHR,19-Apr-20,2558
+Bangladesh,BGD,05-Mar-20,3
+Bangladesh,BGD,08-Mar-20,7
+Bangladesh,BGD,09-Mar-20,10
+Bangladesh,BGD,10-Mar-20,10
+Bangladesh,BGD,11-Mar-20,16
+Bangladesh,BGD,12-Mar-20,24
+Bangladesh,BGD,13-Mar-20,24
+Bangladesh,BGD,14-Mar-20,30
+Bangladesh,BGD,15-Mar-20,27
+Bangladesh,BGD,16-Mar-20,25
+Bangladesh,BGD,17-Mar-20,49
+Bangladesh,BGD,18-Mar-20,39
+Bangladesh,BGD,19-Mar-20,46
+Bangladesh,BGD,20-Mar-20,36
+Bangladesh,BGD,21-Mar-20,36
+Bangladesh,BGD,22-Mar-20,65
+Bangladesh,BGD,23-Mar-20,56
+Bangladesh,BGD,24-Mar-20,92
+Bangladesh,BGD,25-Mar-20,82
+Bangladesh,BGD,26-Mar-20,126
+Bangladesh,BGD,27-Mar-20,106
+Bangladesh,BGD,28-Mar-20,50
+Bangladesh,BGD,29-Mar-20,109
+Bangladesh,BGD,30-Mar-20,153
+Bangladesh,BGD,31-Mar-20,264
+Bangladesh,BGD,01-Apr-20,157
+Bangladesh,BGD,02-Apr-20,147
+Bangladesh,BGD,03-Apr-20,207
+Bangladesh,BGD,04-Apr-20,434
+Bangladesh,BGD,05-Apr-20,367
+Bangladesh,BGD,06-Apr-20,696
+Bangladesh,BGD,07-Apr-20,792
+Bangladesh,BGD,08-Apr-20,981
+Bangladesh,BGD,09-Apr-20,1097
+Bangladesh,BGD,10-Apr-20,1184
+Bangladesh,BGD,11-Apr-20,649
+Bangladesh,BGD,12-Apr-20,1340
+Bangladesh,BGD,13-Apr-20,1570
+Bangladesh,BGD,14-Apr-20,1905
+Bangladesh,BGD,15-Apr-20,1740
+Bangladesh,BGD,16-Apr-20,2135
+Bangladesh,BGD,17-Apr-20,2190
+Bangladesh,BGD,18-Apr-20,2114
+Belgium,BEL,01-Mar-20,56
+Belgium,BEL,02-Mar-20,282
+Belgium,BEL,03-Mar-20,476
+Belgium,BEL,04-Mar-20,634
+Belgium,BEL,05-Mar-20,705
+Belgium,BEL,06-Mar-20,1009
+Belgium,BEL,07-Mar-20,408
+Belgium,BEL,08-Mar-20,414
+Belgium,BEL,09-Mar-20,550
+Belgium,BEL,10-Mar-20,736
+Belgium,BEL,11-Mar-20,1010
+Belgium,BEL,12-Mar-20,1407
+Belgium,BEL,13-Mar-20,2388
+Belgium,BEL,14-Mar-20,1988
+Belgium,BEL,15-Mar-20,1134
+Belgium,BEL,16-Mar-20,1656
+Belgium,BEL,17-Mar-20,1948
+Belgium,BEL,18-Mar-20,2386
+Belgium,BEL,19-Mar-20,2907
+Belgium,BEL,20-Mar-20,2609
+Belgium,BEL,21-Mar-20,1965
+Belgium,BEL,22-Mar-20,1167
+Belgium,BEL,23-Mar-20,2663
+Belgium,BEL,24-Mar-20,3297
+Belgium,BEL,25-Mar-20,3638
+Belgium,BEL,26-Mar-20,3558
+Belgium,BEL,27-Mar-20,4268
+Belgium,BEL,28-Mar-20,3314
+Belgium,BEL,29-Mar-20,2045
+Belgium,BEL,30-Mar-20,3366
+Belgium,BEL,31-Mar-20,5492
+Belgium,BEL,01-Apr-20,4829
+Belgium,BEL,02-Apr-20,4767
+Belgium,BEL,03-Apr-20,5217
+Belgium,BEL,04-Apr-20,4306
+Belgium,BEL,05-Apr-20,2552
+Belgium,BEL,06-Apr-20,4370
+Belgium,BEL,07-Apr-20,5736
+Belgium,BEL,08-Apr-20,6007
+Belgium,BEL,09-Apr-20,6021
+Belgium,BEL,10-Apr-20,6371
+Belgium,BEL,11-Apr-20,6140
+Belgium,BEL,12-Apr-20,5192
+Belgium,BEL,13-Apr-20,4868
+Belgium,BEL,14-Apr-20,5639
+Belgium,BEL,15-Apr-20,7534
+Belgium,BEL,16-Apr-20,7550
+Belgium,BEL,17-Apr-20,7000
+Bolivia,BOL,22-Mar-20,39
+Bolivia,BOL,23-Mar-20,95
+Bolivia,BOL,24-Mar-20,4
+Bolivia,BOL,25-Mar-20,57
+Bolivia,BOL,26-Mar-20,108
+Bolivia,BOL,27-Mar-20,74
+Bolivia,BOL,28-Mar-20,43
+Bolivia,BOL,29-Mar-20,15
+Bolivia,BOL,30-Mar-20,123
+Bolivia,BOL,31-Mar-20,82
+Bolivia,BOL,01-Apr-20,57
+Bolivia,BOL,02-Apr-20,149
+Bolivia,BOL,03-Apr-20,133
+Bolivia,BOL,04-Apr-20,18
+Bolivia,BOL,05-Apr-20,305
+Bolivia,BOL,06-Apr-20,11
+Bolivia,BOL,07-Apr-20,16
+Bolivia,BOL,08-Apr-20,54
+Bolivia,BOL,09-Apr-20,475
+Bolivia,BOL,10-Apr-20,188
+Bolivia,BOL,11-Apr-20,171
+Bolivia,BOL,12-Apr-20,172
+Bolivia,BOL,13-Apr-20,165
+Bolivia,BOL,14-Apr-20,226
+Bolivia,BOL,15-Apr-20,311
+Bolivia,BOL,16-Apr-20,189
+Bolivia,BOL,17-Apr-20,154
+Canada,CAN,19-Mar-20,981
+Canada,CAN,20-Mar-20,21858
+Canada,CAN,21-Mar-20,12069
+Canada,CAN,22-Mar-20,9941
+Canada,CAN,23-Mar-20,8323
+Canada,CAN,24-Mar-20,17915
+Canada,CAN,25-Mar-20,17092
+Canada,CAN,26-Mar-20,19449
+Canada,CAN,27-Mar-20,9041
+Canada,CAN,28-Mar-20,13557
+Canada,CAN,29-Mar-20,26234
+Canada,CAN,30-Mar-20,30703
+Canada,CAN,02-Apr-20,11221
+Canada,CAN,03-Apr-20,26911
+Canada,CAN,04-Apr-20,16906
+Canada,CAN,05-Apr-20,22878
+Canada,CAN,06-Apr-20,1957
+Canada,CAN,07-Apr-20,9701
+Canada,CAN,08-Apr-20,12762
+Canada,CAN,09-Apr-20,14312
+Canada,CAN,10-Apr-20,9741
+Canada,CAN,11-Apr-20,18230
+Canada,CAN,12-Apr-20,3099
+Canada,CAN,13-Apr-20,24269
+Canada,CAN,14-Apr-20,21797
+Canada,CAN,15-Apr-20,11636
+Canada,CAN,16-Apr-20,24707
+Canada,CAN,17-Apr-20,15943
+Canada,CAN,18-Apr-20,13213
+Canada,CAN,19-Apr-20,11841
+Chile,CHL,02-Apr-20,2685
+Chile,CHL,03-Apr-20,3405
+Chile,CHL,04-Apr-20,4483
+Chile,CHL,05-Apr-20,3343
+Chile,CHL,06-Apr-20,2908
+Chile,CHL,07-Apr-20,2258
+Chile,CHL,08-Apr-20,3269
+Chile,CHL,09-Apr-20,7962
+Chile,CHL,10-Apr-20,4444
+Chile,CHL,11-Apr-20,3577
+Chile,CHL,12-Apr-20,5897
+Chile,CHL,13-Apr-20,2764
+Chile,CHL,14-Apr-20,2759
+Chile,CHL,15-Apr-20,4079
+Chile,CHL,16-Apr-20,6551
+Chile,CHL,17-Apr-20,5449
+Chile,CHL,18-Apr-20,5018
+Costa Rica,CRI,11-Mar-20,68
+Costa Rica,CRI,12-Mar-20,89
+Costa Rica,CRI,13-Mar-20,86
+Costa Rica,CRI,14-Mar-20,127
+Costa Rica,CRI,15-Mar-20,43
+Costa Rica,CRI,16-Mar-20,171
+Costa Rica,CRI,17-Mar-20,114
+Costa Rica,CRI,18-Mar-20,154
+Costa Rica,CRI,19-Mar-20,116
+Costa Rica,CRI,20-Mar-20,119
+Costa Rica,CRI,21-Mar-20,148
+Costa Rica,CRI,22-Mar-20,227
+Costa Rica,CRI,23-Mar-20,157
+Costa Rica,CRI,24-Mar-20,165
+Costa Rica,CRI,25-Mar-20,29
+Costa Rica,CRI,26-Mar-20,677
+Costa Rica,CRI,27-Mar-20,487
+Costa Rica,CRI,28-Mar-20,158
+Costa Rica,CRI,29-Mar-20,222
+Costa Rica,CRI,30-Mar-20,263
+Costa Rica,CRI,31-Mar-20,153
+Costa Rica,CRI,01-Apr-20,373
+Costa Rica,CRI,02-Apr-20,132
+Costa Rica,CRI,03-Apr-20,110
+Costa Rica,CRI,04-Apr-20,194
+Costa Rica,CRI,05-Apr-20,444
+Costa Rica,CRI,06-Apr-20,265
+Costa Rica,CRI,07-Apr-20,162
+Costa Rica,CRI,08-Apr-20,510
+Costa Rica,CRI,09-Apr-20,263
+Costa Rica,CRI,10-Apr-20,154
+Costa Rica,CRI,11-Apr-20,156
+Costa Rica,CRI,12-Apr-20,154
+Costa Rica,CRI,13-Apr-20,106
+Costa Rica,CRI,14-Apr-20,76
+Costa Rica,CRI,15-Apr-20,193
+Costa Rica,CRI,16-Apr-20,214
+Costa Rica,CRI,17-Apr-20,172
+Costa Rica,CRI,18-Apr-20,227
+Cuba,CUB,23-Mar-20,107
+Cuba,CUB,24-Mar-20,113
+Cuba,CUB,25-Mar-20,155
+Cuba,CUB,26-Mar-20,146
+Cuba,CUB,27-Mar-20,329
+Cuba,CUB,28-Mar-20,297
+Cuba,CUB,29-Mar-20,342
+Cuba,CUB,30-Mar-20,315
+Cuba,CUB,31-Mar-20,444
+Cuba,CUB,01-Apr-20,576
+Cuba,CUB,02-Apr-20,803
+Cuba,CUB,03-Apr-20,1057
+Cuba,CUB,04-Apr-20,1201
+Cuba,CUB,05-Apr-20,764
+Cuba,CUB,06-Apr-20,1056
+Cuba,CUB,07-Apr-20,1187
+Cuba,CUB,08-Apr-20,1315
+Cuba,CUB,09-Apr-20,1298
+Cuba,CUB,10-Apr-20,1139
+Cuba,CUB,11-Apr-20,1895
+Cuba,CUB,12-Apr-20,2076
+Cuba,CUB,13-Apr-20,1634
+Cuba,CUB,14-Apr-20,1684
+Cuba,CUB,15-Apr-20,1386
+Cuba,CUB,16-Apr-20,1480
+Cuba,CUB,17-Apr-20,1895
+Czech Republic,CZE,28-Jan-20,8
+Czech Republic,CZE,29-Jan-20,5
+Czech Republic,CZE,30-Jan-20,1
+Czech Republic,CZE,31-Jan-20,3
+Czech Republic,CZE,01-Feb-20,1
+Czech Republic,CZE,02-Feb-20,5
+Czech Republic,CZE,03-Feb-20,5
+Czech Republic,CZE,04-Feb-20,5
+Czech Republic,CZE,07-Feb-20,6
+Czech Republic,CZE,10-Feb-20,8
+Czech Republic,CZE,11-Feb-20,2
+Czech Republic,CZE,12-Feb-20,1
+Czech Republic,CZE,13-Feb-20,1
+Czech Republic,CZE,16-Feb-20,1
+Czech Republic,CZE,17-Feb-20,2
+Czech Republic,CZE,23-Feb-20,3
+Czech Republic,CZE,24-Feb-20,12
+Czech Republic,CZE,25-Feb-20,14
+Czech Republic,CZE,26-Feb-20,23
+Czech Republic,CZE,27-Feb-20,35
+Czech Republic,CZE,28-Feb-20,23
+Czech Republic,CZE,29-Feb-20,7
+Czech Republic,CZE,01-Mar-20,11
+Czech Republic,CZE,02-Mar-20,51
+Czech Republic,CZE,03-Mar-20,78
+Czech Republic,CZE,04-Mar-20,67
+Czech Republic,CZE,05-Mar-20,76
+Czech Republic,CZE,06-Mar-20,111
+Czech Republic,CZE,07-Mar-20,193
+Czech Republic,CZE,08-Mar-20,141
+Czech Republic,CZE,09-Mar-20,265
+Czech Republic,CZE,10-Mar-20,165
+Czech Republic,CZE,11-Mar-20,458
+Czech Republic,CZE,12-Mar-20,537
+Czech Republic,CZE,13-Mar-20,741
+Czech Republic,CZE,14-Mar-20,971
+Czech Republic,CZE,15-Mar-20,1003
+Czech Republic,CZE,16-Mar-20,1234
+Czech Republic,CZE,17-Mar-20,1362
+Czech Republic,CZE,18-Mar-20,1738
+Czech Republic,CZE,19-Mar-20,2217
+Czech Republic,CZE,20-Mar-20,2085
+Czech Republic,CZE,21-Mar-20,1880
+Czech Republic,CZE,22-Mar-20,1793
+Czech Republic,CZE,23-Mar-20,2247
+Czech Republic,CZE,24-Mar-20,2976
+Czech Republic,CZE,25-Mar-20,4098
+Czech Republic,CZE,26-Mar-20,4429
+Czech Republic,CZE,27-Mar-20,5247
+Czech Republic,CZE,28-Mar-20,4326
+Czech Republic,CZE,29-Mar-20,2798
+Czech Republic,CZE,30-Mar-20,5313
+Czech Republic,CZE,31-Mar-20,6206
+Czech Republic,CZE,01-Apr-20,5973
+Czech Republic,CZE,02-Apr-20,6291
+Czech Republic,CZE,03-Apr-20,6889
+Czech Republic,CZE,04-Apr-20,6134
+Czech Republic,CZE,05-Apr-20,4710
+Czech Republic,CZE,06-Apr-20,6233
+Czech Republic,CZE,07-Apr-20,7434
+Czech Republic,CZE,08-Apr-20,8164
+Czech Republic,CZE,09-Apr-20,8009
+Czech Republic,CZE,10-Apr-20,5431
+Czech Republic,CZE,11-Apr-20,4841
+Czech Republic,CZE,12-Apr-20,3233
+Czech Republic,CZE,13-Apr-20,3183
+Czech Republic,CZE,14-Apr-20,6130
+Czech Republic,CZE,15-Apr-20,8332
+Czech Republic,CZE,16-Apr-20,8303
+Czech Republic,CZE,17-Apr-20,8226
+Czech Republic,CZE,18-Apr-20,5563
+Denmark,DNK,21-Mar-20,927
+Denmark,DNK,24-Mar-20,1050
+Denmark,DNK,25-Mar-20,971
+Denmark,DNK,30-Mar-20,1442
+Denmark,DNK,31-Mar-20,2535
+Denmark,DNK,01-Apr-20,2934
+Denmark,DNK,02-Apr-20,2812
+Denmark,DNK,03-Apr-20,4467
+Denmark,DNK,04-Apr-20,5540
+Denmark,DNK,05-Apr-20,3806
+Denmark,DNK,06-Apr-20,3182
+Denmark,DNK,07-Apr-20,5750
+Denmark,DNK,08-Apr-20,4869
+Denmark,DNK,09-Apr-20,4675
+Denmark,DNK,10-Apr-20,2521
+Denmark,DNK,11-Apr-20,3040
+Denmark,DNK,12-Apr-20,2354
+Denmark,DNK,13-Apr-20,1974
+Denmark,DNK,14-Apr-20,2111
+Denmark,DNK,15-Apr-20,3502
+Denmark,DNK,16-Apr-20,4668
+Denmark,DNK,17-Apr-20,4644
+Denmark,DNK,18-Apr-20,4413
+Denmark,DNK,19-Apr-20,2840
+Ecuador,ECU,19-Mar-20,192
+Ecuador,ECU,20-Mar-20,287
+Ecuador,ECU,21-Mar-20,222
+Ecuador,ECU,22-Mar-20,480
+Ecuador,ECU,23-Mar-20,411
+Ecuador,ECU,24-Mar-20,235
+Ecuador,ECU,25-Mar-20,291
+Ecuador,ECU,26-Mar-20,527
+Ecuador,ECU,27-Mar-20,443
+Ecuador,ECU,28-Mar-20,367
+Ecuador,ECU,29-Mar-20,188
+Ecuador,ECU,30-Mar-20,96
+Ecuador,ECU,31-Mar-20,609
+Ecuador,ECU,01-Apr-20,763
+Ecuador,ECU,02-Apr-20,711
+Ecuador,ECU,03-Apr-20,354
+Ecuador,ECU,04-Apr-20,178
+Ecuador,ECU,05-Apr-20,415
+Ecuador,ECU,06-Apr-20,341
+Ecuador,ECU,07-Apr-20,361
+Ecuador,ECU,08-Apr-20,707
+Ecuador,ECU,09-Apr-20,981
+Ecuador,ECU,10-Apr-20,4018
+Ecuador,ECU,11-Apr-20,544
+Ecuador,ECU,12-Apr-20,383
+Ecuador,ECU,13-Apr-20,242
+Ecuador,ECU,14-Apr-20,272
+Ecuador,ECU,15-Apr-20,516
+El Salvador,SLV,15-Apr-20,548
+El Salvador,SLV,16-Apr-20,934
+El Salvador,SLV,17-Apr-20,924
+Estonia,EST,26-Feb-20,8
+Estonia,EST,27-Feb-20,10
+Estonia,EST,28-Feb-20,13
+Estonia,EST,29-Feb-20,8
+Estonia,EST,01-Mar-20,18
+Estonia,EST,02-Mar-20,22
+Estonia,EST,03-Mar-20,29
+Estonia,EST,04-Mar-20,36
+Estonia,EST,05-Mar-20,35
+Estonia,EST,06-Mar-20,71
+Estonia,EST,07-Mar-20,29
+Estonia,EST,08-Mar-20,20
+Estonia,EST,09-Mar-20,64
+Estonia,EST,10-Mar-20,57
+Estonia,EST,11-Mar-20,65
+Estonia,EST,12-Mar-20,131
+Estonia,EST,13-Mar-20,183
+Estonia,EST,14-Mar-20,163
+Estonia,EST,15-Mar-20,496
+Estonia,EST,16-Mar-20,305
+Estonia,EST,17-Mar-20,191
+Estonia,EST,18-Mar-20,539
+Estonia,EST,19-Mar-20,351
+Estonia,EST,20-Mar-20,393
+Estonia,EST,21-Mar-20,637
+Estonia,EST,22-Mar-20,160
+Estonia,EST,23-Mar-20,495
+Estonia,EST,24-Mar-20,1403
+Estonia,EST,25-Mar-20,1047
+Estonia,EST,26-Mar-20,1139
+Estonia,EST,27-Mar-20,1253
+Estonia,EST,28-Mar-20,1035
+Estonia,EST,29-Mar-20,851
+Estonia,EST,30-Mar-20,1153
+Estonia,EST,31-Mar-20,1977
+Estonia,EST,01-Apr-20,1373
+Estonia,EST,02-Apr-20,2506
+Estonia,EST,03-Apr-20,1532
+Estonia,EST,04-Apr-20,1186
+Estonia,EST,05-Apr-20,859
+Estonia,EST,06-Apr-20,1679
+Estonia,EST,07-Apr-20,1273
+Estonia,EST,08-Apr-20,1605
+Estonia,EST,09-Apr-20,1466
+Estonia,EST,10-Apr-20,1570
+Estonia,EST,11-Apr-20,895
+Estonia,EST,12-Apr-20,409
+Estonia,EST,13-Apr-20,1509
+Estonia,EST,14-Apr-20,1707
+Estonia,EST,15-Apr-20,2052
+Estonia,EST,16-Apr-20,1573
+Estonia,EST,17-Apr-20,2017
+Ethiopia,ETH,01-Apr-20,70
+Ethiopia,ETH,06-Apr-20,164
+Ethiopia,ETH,07-Apr-20,264
+Ethiopia,ETH,08-Apr-20,225
+Ethiopia,ETH,09-Apr-20,294
+Ethiopia,ETH,13-Apr-20,247
+Ethiopia,ETH,14-Apr-20,447
+Ethiopia,ETH,15-Apr-20,431
+Ethiopia,ETH,16-Apr-20,401
+Finland,FIN,13-Mar-20,409
+Finland,FIN,14-Mar-20,586
+Finland,FIN,15-Mar-20,670
+Finland,FIN,16-Mar-20,812
+Finland,FIN,17-Mar-20,1117
+Finland,FIN,18-Mar-20,1015
+Finland,FIN,19-Mar-20,776
+Finland,FIN,20-Mar-20,1268
+Finland,FIN,21-Mar-20,1595
+Finland,FIN,22-Mar-20,1052
+Finland,FIN,23-Mar-20,1319
+Finland,FIN,24-Mar-20,1579
+Finland,FIN,25-Mar-20,963
+Finland,FIN,26-Mar-20,1837
+Finland,FIN,27-Mar-20,2455
+Finland,FIN,28-Mar-20,1207
+Finland,FIN,29-Mar-20,583
+Finland,FIN,30-Mar-20,1233
+Finland,FIN,31-Mar-20,1129
+Finland,FIN,01-Apr-20,1907
+Finland,FIN,02-Apr-20,1969
+Finland,FIN,03-Apr-20,1667
+Finland,FIN,04-Apr-20,2591
+Finland,FIN,05-Apr-20,1626
+Finland,FIN,06-Apr-20,1924
+Finland,FIN,07-Apr-20,1891
+Finland,FIN,08-Apr-20,2487
+Finland,FIN,09-Apr-20,2441
+Finland,FIN,10-Apr-20,2487
+Finland,FIN,11-Apr-20,1310
+Finland,FIN,12-Apr-20,1520
+Finland,FIN,13-Apr-20,898
+Finland,FIN,14-Apr-20,1148
+Finland,FIN,15-Apr-20,2384
+Finland,FIN,16-Apr-20,2642
+Finland,FIN,17-Apr-20,2251
+France,FRA,25-Feb-20,115
+France,FRA,26-Feb-20,266
+France,FRA,27-Feb-20,439
+France,FRA,28-Feb-20,465
+France,FRA,29-Feb-20,586
+France,FRA,01-Mar-20,549
+France,FRA,02-Mar-20,436
+France,FRA,03-Mar-20,707
+France,FRA,04-Mar-20,1209
+France,FRA,05-Mar-20,1243
+France,FRA,06-Mar-20,1649
+France,FRA,07-Mar-20,1800
+France,FRA,08-Mar-20,1576
+France,FRA,09-Mar-20,1596
+France,FRA,10-Mar-20,2351
+Ghana,GHA,11-Apr-20,10608
+Ghana,GHA,14-Apr-20,6298
+Greece,GRC,21-Mar-20,658
+Greece,GRC,22-Mar-20,176
+Greece,GRC,23-Mar-20,638
+Greece,GRC,24-Mar-20,427
+Greece,GRC,25-Mar-20,1424
+Greece,GRC,28-Mar-20,886
+Greece,GRC,29-Mar-20,788
+Greece,GRC,30-Mar-20,810
+Greece,GRC,31-Mar-20,771
+Greece,GRC,01-Apr-20,618
+Greece,GRC,02-Apr-20,1494
+Greece,GRC,03-Apr-20,3593
+Greece,GRC,04-Apr-20,896
+Greece,GRC,05-Apr-20,2120
+Greece,GRC,06-Apr-20,740
+Greece,GRC,07-Apr-20,2391
+Greece,GRC,08-Apr-20,3944
+Greece,GRC,09-Apr-20,1106
+Greece,GRC,10-Apr-20,1798
+Greece,GRC,11-Apr-20,1912
+Greece,GRC,12-Apr-20,4917
+Greece,GRC,13-Apr-20,1170
+Greece,GRC,16-Apr-20,2001
+Greece,GRC,17-Apr-20,2255
+Greece,GRC,18-Apr-20,1645
+Hungary,HUN,07-Mar-20,50
+Hungary,HUN,08-Mar-20,43
+Hungary,HUN,11-Mar-20,78
+Hungary,HUN,12-Mar-20,121
+Hungary,HUN,13-Mar-20,128
+Hungary,HUN,14-Mar-20,156
+Hungary,HUN,15-Mar-20,222
+Hungary,HUN,16-Mar-20,234
+Hungary,HUN,17-Mar-20,117
+Hungary,HUN,18-Mar-20,216
+Hungary,HUN,19-Mar-20,519
+Hungary,HUN,20-Mar-20,685
+Hungary,HUN,21-Mar-20,470
+Hungary,HUN,22-Mar-20,966
+Hungary,HUN,23-Mar-20,1072
+Hungary,HUN,24-Mar-20,598
+Hungary,HUN,25-Mar-20,704
+Hungary,HUN,26-Mar-20,1188
+Hungary,HUN,27-Mar-20,1270
+Hungary,HUN,28-Mar-20,1028
+Hungary,HUN,29-Mar-20,1845
+Hungary,HUN,30-Mar-20,1153
+Hungary,HUN,31-Mar-20,845
+Hungary,HUN,01-Apr-20,1062
+Hungary,HUN,02-Apr-20,1193
+Hungary,HUN,03-Apr-20,1368
+Hungary,HUN,04-Apr-20,1655
+Hungary,HUN,05-Apr-20,1826
+Hungary,HUN,06-Apr-20,1032
+Hungary,HUN,07-Apr-20,1464
+Hungary,HUN,08-Apr-20,2002
+Hungary,HUN,09-Apr-20,2078
+Hungary,HUN,10-Apr-20,2122
+Hungary,HUN,11-Apr-20,2013
+Hungary,HUN,12-Apr-20,1571
+Hungary,HUN,13-Apr-20,1287
+Hungary,HUN,14-Apr-20,1006
+Hungary,HUN,15-Apr-20,1501
+Hungary,HUN,16-Apr-20,1163
+Hungary,HUN,17-Apr-20,3101
+Hungary,HUN,18-Apr-20,2311
+Hungary,HUN,19-Apr-20,2452
+Iceland,ISL,27-Feb-20,23
+Iceland,ISL,28-Feb-20,13
+Iceland,ISL,29-Feb-20,32
+Iceland,ISL,01-Mar-20,22
+Iceland,ISL,02-Mar-20,48
+Iceland,ISL,03-Mar-20,45
+Iceland,ISL,04-Mar-20,81
+Iceland,ISL,05-Mar-20,62
+Iceland,ISL,06-Mar-20,57
+Iceland,ISL,07-Mar-20,58
+Iceland,ISL,08-Mar-20,37
+Iceland,ISL,09-Mar-20,98
+Iceland,ISL,10-Mar-20,169
+Iceland,ISL,11-Mar-20,149
+Iceland,ISL,12-Mar-20,253
+Iceland,ISL,13-Mar-20,357
+Iceland,ISL,14-Mar-20,323
+Iceland,ISL,15-Mar-20,1075
+Iceland,ISL,16-Mar-20,1707
+Iceland,ISL,17-Mar-20,1400
+Iceland,ISL,18-Mar-20,1828
+Iceland,ISL,19-Mar-20,1311
+Iceland,ISL,20-Mar-20,579
+Iceland,ISL,21-Mar-20,350
+Iceland,ISL,22-Mar-20,183
+Iceland,ISL,23-Mar-20,459
+Iceland,ISL,24-Mar-20,967
+Iceland,ISL,25-Mar-20,888
+Iceland,ISL,26-Mar-20,998
+Iceland,ISL,27-Mar-20,1022
+Iceland,ISL,28-Mar-20,849
+Iceland,ISL,29-Mar-20,1000
+Iceland,ISL,30-Mar-20,1420
+Iceland,ISL,31-Mar-20,1612
+Iceland,ISL,01-Apr-20,1414
+Iceland,ISL,02-Apr-20,1265
+Iceland,ISL,03-Apr-20,1445
+Iceland,ISL,04-Apr-20,1754
+Iceland,ISL,05-Apr-20,2486
+Iceland,ISL,06-Apr-20,1112
+Iceland,ISL,07-Apr-20,1955
+Iceland,ISL,08-Apr-20,1676
+Iceland,ISL,09-Apr-20,1502
+Iceland,ISL,10-Apr-20,510
+Iceland,ISL,11-Apr-20,618
+Iceland,ISL,12-Apr-20,235
+Iceland,ISL,13-Apr-20,851
+Iceland,ISL,14-Apr-20,1047
+Iceland,ISL,15-Apr-20,818
+Iceland,ISL,16-Apr-20,1332
+Iceland,ISL,17-Apr-20,1555
+Iceland,ISL,18-Apr-20,1671
+India,IND,19-Mar-20,191
+India,IND,20-Mar-20,1060
+India,IND,21-Mar-20,1325
+India,IND,22-Mar-20,1298
+India,IND,23-Mar-20,3708
+India,IND,24-Mar-20,157
+India,IND,25-Mar-20,4280
+India,IND,03-Apr-20,21294
+India,IND,04-Apr-20,10705
+India,IND,05-Apr-20,9584
+India,IND,06-Apr-20,11534
+India,IND,07-Apr-20,12947
+India,IND,08-Apr-20,13904
+India,IND,09-Apr-20,16991
+India,IND,10-Apr-20,16420
+India,IND,11-Apr-20,18044
+India,IND,12-Apr-20,16374
+India,IND,13-Apr-20,21806
+India,IND,14-Apr-20,27339
+India,IND,15-Apr-20,29706
+India,IND,16-Apr-20,28357
+India,IND,17-Apr-20,32167
+India,IND,18-Apr-20,37000
+"India, people tested",,19-Mar-20,191
+"India, people tested",,20-Mar-20,1060
+"India, people tested",,21-Mar-20,1325
+"India, people tested",,22-Mar-20,1298
+"India, people tested",,23-Mar-20,3708
+"India, people tested",,24-Mar-20,157
+"India, people tested",,25-Mar-20,4280
+"India, people tested",,10-Apr-20,16242
+"India, people tested",,11-Apr-20,17739
+"India, people tested",,12-Apr-20,16255
+"India, people tested",,13-Apr-20,21523
+"India, people tested",,14-Apr-20,26875
+"India, people tested",,15-Apr-20,29304
+"India, people tested",,16-Apr-20,27984
+"India, people tested",,17-Apr-20,31735
+"India, people tested",,18-Apr-20,36520
+Indonesia,IDN,17-Mar-20,25
+Indonesia,IDN,20-Mar-20,247
+Indonesia,IDN,23-Mar-20,74
+Indonesia,IDN,24-Mar-20,380
+Indonesia,IDN,28-Mar-20,1286
+Indonesia,IDN,29-Mar-20,491
+Indonesia,IDN,30-Mar-20,268
+Indonesia,IDN,31-Mar-20,129
+Indonesia,IDN,01-Apr-20,114
+Indonesia,IDN,02-Apr-20,416
+Indonesia,IDN,03-Apr-20,428
+Indonesia,IDN,04-Apr-20,365
+Indonesia,IDN,07-Apr-20,1973
+Indonesia,IDN,08-Apr-20,1138
+Indonesia,IDN,09-Apr-20,2277
+Indonesia,IDN,10-Apr-20,2604
+Indonesia,IDN,11-Apr-20,330
+Indonesia,IDN,12-Apr-20,7293
+Indonesia,IDN,13-Apr-20,316
+Indonesia,IDN,14-Apr-20,4237
+Indonesia,IDN,15-Apr-20,1373
+Indonesia,IDN,16-Apr-20,1974
+Indonesia,IDN,17-Apr-20,2159
+Indonesia,IDN,18-Apr-20,2288
+Indonesia,IDN,19-Apr-20,2797
+Israel,ISR,27-Jan-20,1
+Israel,ISR,30-Jan-20,4
+Israel,ISR,03-Feb-20,6
+Israel,ISR,04-Feb-20,6
+Israel,ISR,10-Feb-20,29
+Israel,ISR,11-Feb-20,75
+Israel,ISR,12-Feb-20,38
+Israel,ISR,13-Feb-20,37
+Israel,ISR,14-Feb-20,28
+Israel,ISR,15-Feb-20,2
+Israel,ISR,16-Feb-20,28
+Israel,ISR,17-Feb-20,43
+Israel,ISR,18-Feb-20,45
+Israel,ISR,19-Feb-20,36
+Israel,ISR,20-Feb-20,28
+Israel,ISR,21-Feb-20,15
+Israel,ISR,22-Feb-20,13
+Israel,ISR,23-Feb-20,75
+Israel,ISR,24-Feb-20,58
+Israel,ISR,25-Feb-20,104
+Israel,ISR,26-Feb-20,123
+Israel,ISR,27-Feb-20,134
+Israel,ISR,28-Feb-20,115
+Israel,ISR,29-Feb-20,158
+Israel,ISR,01-Mar-20,160
+Israel,ISR,02-Mar-20,173
+Israel,ISR,03-Mar-20,226
+Israel,ISR,04-Mar-20,123
+Israel,ISR,05-Mar-20,177
+Israel,ISR,06-Mar-20,302
+Israel,ISR,07-Mar-20,387
+Israel,ISR,08-Mar-20,475
+Israel,ISR,09-Mar-20,588
+Israel,ISR,10-Mar-20,518
+Israel,ISR,11-Mar-20,511
+Israel,ISR,12-Mar-20,722
+Israel,ISR,13-Mar-20,785
+Israel,ISR,14-Mar-20,645
+Israel,ISR,15-Mar-20,1142
+Israel,ISR,16-Mar-20,1278
+Israel,ISR,17-Mar-20,2135
+Israel,ISR,18-Mar-20,2656
+Israel,ISR,19-Mar-20,2503
+Israel,ISR,20-Mar-20,2643
+Israel,ISR,21-Mar-20,1974
+Israel,ISR,22-Mar-20,3359
+Israel,ISR,23-Mar-20,3865
+Israel,ISR,24-Mar-20,5067
+Israel,ISR,25-Mar-20,5240
+Israel,ISR,26-Mar-20,5555
+Israel,ISR,27-Mar-20,5014
+Israel,ISR,28-Mar-20,4961
+Israel,ISR,29-Mar-20,6489
+Israel,ISR,30-Mar-20,5681
+Israel,ISR,31-Mar-20,7851
+Israel,ISR,01-Apr-20,8213
+Israel,ISR,02-Apr-20,9082
+Israel,ISR,03-Apr-20,9903
+Israel,ISR,04-Apr-20,6647
+Israel,ISR,05-Apr-20,9279
+Israel,ISR,06-Apr-20,7250
+Israel,ISR,07-Apr-20,6592
+Israel,ISR,08-Apr-20,5570
+Israel,ISR,09-Apr-20,5521
+Israel,ISR,10-Apr-20,5980
+Israel,ISR,11-Apr-20,6085
+Israel,ISR,12-Apr-20,8493
+Israel,ISR,13-Apr-20,8991
+Israel,ISR,14-Apr-20,15187
+Israel,ISR,15-Apr-20,10752
+Israel,ISR,16-Apr-20,9507
+Israel,ISR,17-Apr-20,10037
+Israel,ISR,18-Apr-20,10013
+Italy,ITA,25-Feb-20,4299
+Italy,ITA,26-Feb-20,964
+Italy,ITA,27-Feb-20,2427
+Italy,ITA,28-Feb-20,3681
+Italy,ITA,29-Feb-20,2966
+Italy,ITA,01-Mar-20,2466
+Italy,ITA,02-Mar-20,2218
+Italy,ITA,03-Mar-20,2511
+Italy,ITA,04-Mar-20,3981
+Italy,ITA,05-Mar-20,2525
+Italy,ITA,06-Mar-20,3997
+Italy,ITA,07-Mar-20,5703
+Italy,ITA,08-Mar-20,7875
+Italy,ITA,09-Mar-20,3889
+Italy,ITA,10-Mar-20,6935
+Italy,ITA,11-Mar-20,12393
+Italy,ITA,12-Mar-20,12857
+Italy,ITA,13-Mar-20,11477
+Italy,ITA,14-Mar-20,11682
+Italy,ITA,15-Mar-20,15729
+Italy,ITA,16-Mar-20,13063
+Italy,ITA,17-Mar-20,10695
+Italy,ITA,18-Mar-20,16884
+Italy,ITA,19-Mar-20,17236
+Italy,ITA,20-Mar-20,24109
+Italy,ITA,21-Mar-20,26336
+Italy,ITA,22-Mar-20,25180
+Italy,ITA,23-Mar-20,17066
+Italy,ITA,24-Mar-20,21496
+Italy,ITA,25-Mar-20,27481
+Italy,ITA,26-Mar-20,36615
+Italy,ITA,27-Mar-20,33019
+Italy,ITA,28-Mar-20,35447
+Italy,ITA,29-Mar-20,24504
+Italy,ITA,30-Mar-20,23329
+Italy,ITA,31-Mar-20,29609
+Italy,ITA,01-Apr-20,34455
+Italy,ITA,02-Apr-20,39809
+Italy,ITA,03-Apr-20,38617
+Italy,ITA,04-Apr-20,37375
+Italy,ITA,05-Apr-20,34237
+Italy,ITA,06-Apr-20,30271
+Italy,ITA,07-Apr-20,33713
+Italy,ITA,08-Apr-20,51680
+Italy,ITA,09-Apr-20,46244
+Italy,ITA,10-Apr-20,53495
+Italy,ITA,11-Apr-20,56609
+Italy,ITA,12-Apr-20,46720
+Italy,ITA,13-Apr-20,36717
+Italy,ITA,14-Apr-20,26779
+Italy,ITA,15-Apr-20,43715
+Italy,ITA,16-Apr-20,60999
+Italy,ITA,17-Apr-20,65705
+Italy,ITA,18-Apr-20,61725
+"Japan, tests performed",,18-Feb-20,1022
+"Japan, tests performed",,19-Feb-20,762
+"Japan, tests performed",,20-Feb-20,744
+"Japan, tests performed",,21-Feb-20,1603
+"Japan, tests performed",,22-Feb-20,1147
+"Japan, tests performed",,23-Feb-20,655
+"Japan, tests performed",,24-Feb-20,505
+"Japan, tests performed",,25-Feb-20,892
+"Japan, tests performed",,26-Feb-20,1369
+"Japan, tests performed",,27-Feb-20,1373
+"Japan, tests performed",,28-Feb-20,1489
+"Japan, tests performed",,29-Feb-20,1016
+"Japan, tests performed",,01-Mar-20,629
+"Japan, tests performed",,02-Mar-20,1143
+"Japan, tests performed",,03-Mar-20,1587
+"Japan, tests performed",,04-Mar-20,1411
+"Japan, tests performed",,05-Mar-20,1551
+"Japan, tests performed",,06-Mar-20,1960
+"Japan, tests performed",,07-Mar-20,1505
+"Japan, tests performed",,08-Mar-20,567
+"Japan, tests performed",,09-Mar-20,1241
+"Japan, tests performed",,10-Mar-20,2026
+"Japan, tests performed",,11-Mar-20,1878
+"Japan, tests performed",,12-Mar-20,1741
+"Japan, tests performed",,13-Mar-20,1560
+"Japan, tests performed",,14-Mar-20,1577
+"Japan, tests performed",,15-Mar-20,642
+"Japan, tests performed",,16-Mar-20,1076
+"Japan, tests performed",,17-Mar-20,1826
+"Japan, tests performed",,18-Mar-20,1782
+"Japan, tests performed",,19-Mar-20,1807
+"Japan, tests performed",,20-Mar-20,1446
+"Japan, tests performed",,21-Mar-20,891
+"Japan, tests performed",,22-Mar-20,844
+"Japan, tests performed",,23-Mar-20,1394
+"Japan, tests performed",,24-Mar-20,2291
+"Japan, tests performed",,25-Mar-20,1909
+"Japan, tests performed",,26-Mar-20,2155
+"Japan, tests performed",,27-Mar-20,2272
+"Japan, tests performed",,28-Mar-20,2563
+"Japan, tests performed",,29-Mar-20,2114
+"Japan, tests performed",,30-Mar-20,3199
+"Japan, tests performed",,31-Mar-20,4097
+"Japan, tests performed",,01-Apr-20,4157
+"Japan, tests performed",,02-Apr-20,5097
+"Japan, tests performed",,03-Apr-20,5722
+"Japan, tests performed",,04-Apr-20,5957
+"Japan, tests performed",,05-Apr-20,3667
+"Japan, tests performed",,06-Apr-20,5254
+"Japan, tests performed",,07-Apr-20,7269
+"Japan, tests performed",,08-Apr-20,7990
+"Japan, tests performed",,09-Apr-20,8119
+"Japan, tests performed",,10-Apr-20,7970
+"Japan, tests performed",,11-Apr-20,7021
+"Japan, tests performed",,12-Apr-20,4792
+"Japan, tests performed",,13-Apr-20,6748
+"Japan, tests performed",,14-Apr-20,8424
+"Japan, tests performed",,15-Apr-20,8737
+"Japan, tests performed",,16-Apr-20,7484
+"Japan, tests performed",,17-Apr-20,4605
+Kenya,KEN,18-Mar-20,21
+Kenya,KEN,19-Mar-20,41
+Kenya,KEN,29-Mar-20,69
+Kenya,KEN,30-Mar-20,172
+Kenya,KEN,31-Mar-20,234
+Kenya,KEN,01-Apr-20,380
+Kenya,KEN,02-Apr-20,662
+Kenya,KEN,03-Apr-20,362
+Kenya,KEN,04-Apr-20,372
+Kenya,KEN,05-Apr-20,530
+Kenya,KEN,06-Apr-20,663
+Kenya,KEN,07-Apr-20,696
+Kenya,KEN,08-Apr-20,305
+Kenya,KEN,09-Apr-20,308
+Kenya,KEN,10-Apr-20,606
+Kenya,KEN,11-Apr-20,491
+Kenya,KEN,12-Apr-20,766
+Kenya,KEN,13-Apr-20,674
+Kenya,KEN,14-Apr-20,694
+Kenya,KEN,15-Apr-20,803
+Kenya,KEN,16-Apr-20,704
+Kenya,KEN,17-Apr-20,450
+Latvia,LVA,29-Feb-20,116
+Latvia,LVA,01-Mar-20,10
+Latvia,LVA,02-Mar-20,37
+Latvia,LVA,03-Mar-20,41
+Latvia,LVA,04-Mar-20,36
+Latvia,LVA,05-Mar-20,35
+Latvia,LVA,06-Mar-20,32
+Latvia,LVA,07-Mar-20,14
+Latvia,LVA,08-Mar-20,22
+Latvia,LVA,09-Mar-20,48
+Latvia,LVA,10-Mar-20,59
+Latvia,LVA,11-Mar-20,47
+Latvia,LVA,12-Mar-20,79
+Latvia,LVA,13-Mar-20,127
+Latvia,LVA,14-Mar-20,316
+Latvia,LVA,15-Mar-20,334
+Latvia,LVA,16-Mar-20,351
+Latvia,LVA,17-Mar-20,495
+Latvia,LVA,18-Mar-20,755
+Latvia,LVA,19-Mar-20,720
+Latvia,LVA,20-Mar-20,699
+Latvia,LVA,21-Mar-20,1389
+Latvia,LVA,22-Mar-20,811
+Latvia,LVA,23-Mar-20,1185
+Latvia,LVA,24-Mar-20,887
+Latvia,LVA,25-Mar-20,1151
+Latvia,LVA,26-Mar-20,817
+Latvia,LVA,27-Mar-20,1089
+Latvia,LVA,28-Mar-20,1046
+Latvia,LVA,29-Mar-20,1057
+Latvia,LVA,30-Mar-20,502
+Latvia,LVA,31-Mar-20,500
+Latvia,LVA,01-Apr-20,1003
+Latvia,LVA,02-Apr-20,1024
+Latvia,LVA,03-Apr-20,1364
+Latvia,LVA,04-Apr-20,1182
+Latvia,LVA,05-Apr-20,1300
+Latvia,LVA,06-Apr-20,773
+Latvia,LVA,07-Apr-20,1122
+Latvia,LVA,08-Apr-20,1461
+Latvia,LVA,09-Apr-20,1422
+Latvia,LVA,10-Apr-20,1198
+Latvia,LVA,11-Apr-20,1140
+Latvia,LVA,12-Apr-20,418
+Latvia,LVA,13-Apr-20,562
+Latvia,LVA,14-Apr-20,242
+Latvia,LVA,15-Apr-20,878
+Latvia,LVA,16-Apr-20,1406
+Latvia,LVA,17-Apr-20,1535
+Latvia,LVA,18-Apr-20,1860
+Latvia,LVA,19-Apr-20,1184
+Lithuania,LTU,17-Mar-20,118
+Lithuania,LTU,18-Mar-20,193
+Lithuania,LTU,28-Mar-20,1405
+Lithuania,LTU,29-Mar-20,1524
+Lithuania,LTU,30-Mar-20,1467
+Lithuania,LTU,02-Apr-20,3049
+Lithuania,LTU,03-Apr-20,2809
+Lithuania,LTU,04-Apr-20,2944
+Lithuania,LTU,05-Apr-20,2269
+Lithuania,LTU,06-Apr-20,1954
+Lithuania,LTU,07-Apr-20,2208
+Lithuania,LTU,10-Apr-20,3242
+Lithuania,LTU,11-Apr-20,2421
+Lithuania,LTU,14-Apr-20,1187
+Lithuania,LTU,15-Apr-20,1987
+Lithuania,LTU,16-Apr-20,3860
+Lithuania,LTU,17-Apr-20,4564
+Lithuania,LTU,18-Apr-20,5715
+Lithuania,LTU,19-Apr-20,5219
+Luxembourg,LUX,04-Apr-20,1330
+Luxembourg,LUX,10-Apr-20,752
+Luxembourg,LUX,11-Apr-20,692
+Luxembourg,LUX,12-Apr-20,350
+Luxembourg,LUX,15-Apr-20,1200
+Luxembourg,LUX,16-Apr-20,937
+Luxembourg,LUX,17-Apr-20,734
+Luxembourg,LUX,18-Apr-20,858
+Malaysia,MYS,17-Feb-20,101
+Malaysia,MYS,18-Feb-20,40
+Malaysia,MYS,21-Feb-20,88
+Malaysia,MYS,24-Feb-20,26
+Malaysia,MYS,25-Feb-20,13
+Malaysia,MYS,26-Feb-20,24
+Malaysia,MYS,27-Feb-20,454
+Malaysia,MYS,28-Feb-20,3
+Malaysia,MYS,12-Mar-20,118
+Malaysia,MYS,20-Mar-20,1270
+Malaysia,MYS,23-Mar-20,1835
+Malaysia,MYS,24-Mar-20,484
+Malaysia,MYS,25-Mar-20,2226
+Malaysia,MYS,26-Mar-20,1163
+Malaysia,MYS,27-Mar-20,7185
+Malaysia,MYS,28-Mar-20,5293
+Malaysia,MYS,31-Mar-20,1058
+Malaysia,MYS,01-Apr-20,3538
+Malaysia,MYS,02-Apr-20,1797
+Malaysia,MYS,03-Apr-20,1859
+Malaysia,MYS,04-Apr-20,1465
+Malaysia,MYS,05-Apr-20,2616
+Malaysia,MYS,06-Apr-20,3918
+Malaysia,MYS,07-Apr-20,5028
+Malaysia,MYS,08-Apr-20,5755
+Malaysia,MYS,09-Apr-20,5127
+Malaysia,MYS,10-Apr-20,4584
+Malaysia,MYS,11-Apr-20,3946
+Malaysia,MYS,12-Apr-20,5594
+Malaysia,MYS,13-Apr-20,4239
+Malaysia,MYS,14-Apr-20,3061
+Malaysia,MYS,15-Apr-20,2392
+Malaysia,MYS,18-Apr-20,4099
+Malaysia,MYS,19-Apr-20,3098
+Mexico,MEX,24-Jan-20,2
+Mexico,MEX,25-Jan-20,3
+Mexico,MEX,13-Feb-20,2
+Mexico,MEX,28-Feb-20,18
+Mexico,MEX,29-Feb-20,10
+Mexico,MEX,01-Mar-20,30
+Mexico,MEX,02-Mar-20,9
+Mexico,MEX,03-Mar-20,6
+Mexico,MEX,04-Mar-20,37
+Mexico,MEX,05-Mar-20,31
+Mexico,MEX,06-Mar-20,21
+Mexico,MEX,07-Mar-20,24
+Mexico,MEX,08-Mar-20,15
+Mexico,MEX,09-Mar-20,17
+Mexico,MEX,10-Mar-20,16
+Mexico,MEX,11-Mar-20,76
+Mexico,MEX,12-Mar-20,38
+Mexico,MEX,13-Mar-20,57
+Mexico,MEX,14-Mar-20,75
+Mexico,MEX,15-Mar-20,90
+Mexico,MEX,16-Mar-20,126
+Mexico,MEX,17-Mar-20,104
+Mexico,MEX,18-Mar-20,140
+Mexico,MEX,19-Mar-20,180
+Mexico,MEX,20-Mar-20,229
+Mexico,MEX,21-Mar-20,430
+Mexico,MEX,22-Mar-20,239
+Mexico,MEX,23-Mar-20,249
+Mexico,MEX,24-Mar-20,334
+Mexico,MEX,25-Mar-20,354
+Mexico,MEX,26-Mar-20,630
+Mexico,MEX,27-Mar-20,709
+Mexico,MEX,28-Mar-20,930
+Mexico,MEX,29-Mar-20,759
+Mexico,MEX,30-Mar-20,781
+Mexico,MEX,31-Mar-20,768
+Mexico,MEX,01-Apr-20,954
+Mexico,MEX,02-Apr-20,881
+Mexico,MEX,03-Apr-20,776
+Mexico,MEX,04-Apr-20,1067
+Mexico,MEX,05-Apr-20,1468
+Mexico,MEX,06-Apr-20,1355
+Mexico,MEX,07-Apr-20,3704
+Mexico,MEX,08-Apr-20,2506
+Mexico,MEX,09-Apr-20,1001
+Mexico,MEX,10-Apr-20,2202
+Mexico,MEX,11-Apr-20,1903
+Mexico,MEX,12-Apr-20,1108
+Mexico,MEX,13-Apr-20,1450
+Mexico,MEX,14-Apr-20,1245
+Mexico,MEX,15-Apr-20,1686
+Mexico,MEX,16-Apr-20,1823
+Mexico,MEX,17-Apr-20,2193
+Mexico,MEX,18-Apr-20,1797
+Nepal,NPL,29-Jan-20,1
+Nepal,NPL,30-Jan-20,1
+Nepal,NPL,13-Feb-20,4
+Nepal,NPL,19-Feb-20,175
+Nepal,NPL,20-Feb-20,2
+Nepal,NPL,24-Feb-20,1
+Nepal,NPL,25-Feb-20,4
+Nepal,NPL,26-Feb-20,1
+Nepal,NPL,02-Mar-20,182
+Nepal,NPL,03-Mar-20,8
+Nepal,NPL,11-Mar-20,2
+Nepal,NPL,12-Mar-20,3
+Nepal,NPL,13-Mar-20,6
+Nepal,NPL,16-Mar-20,11
+Nepal,NPL,17-Mar-20,18
+Nepal,NPL,18-Mar-20,16
+Nepal,NPL,19-Mar-20,17
+Nepal,NPL,20-Mar-20,17
+Nepal,NPL,23-Mar-20,37
+Nepal,NPL,24-Mar-20,1
+Nepal,NPL,25-Mar-20,77
+Nepal,NPL,26-Mar-20,71
+Nepal,NPL,27-Mar-20,44
+Nepal,NPL,28-Mar-20,73
+Nepal,NPL,29-Mar-20,42
+Nepal,NPL,30-Mar-20,76
+Nepal,NPL,31-Mar-20,67
+Nepal,NPL,01-Apr-20,85
+Nepal,NPL,02-Apr-20,40
+Nepal,NPL,03-Apr-20,123
+Nepal,NPL,04-Apr-20,213
+Nepal,NPL,05-Apr-20,121
+Nepal,NPL,06-Apr-20,248
+Nepal,NPL,07-Apr-20,232
+Nepal,NPL,08-Apr-20,244
+Nepal,NPL,09-Apr-20,529
+Nepal,NPL,10-Apr-20,216
+Nepal,NPL,11-Apr-20,1315
+Nepal,NPL,12-Apr-20,758
+Nepal,NPL,13-Apr-20,507
+Nepal,NPL,14-Apr-20,608
+Nepal,NPL,15-Apr-20,572
+Nepal,NPL,16-Apr-20,369
+Nepal,NPL,17-Apr-20,218
+Netherlands,NLD,23-Mar-20,2822
+Netherlands,NLD,24-Mar-20,4636
+Netherlands,NLD,30-Mar-20,3445
+Netherlands,NLD,31-Mar-20,4394
+Netherlands,NLD,01-Apr-20,4273
+Netherlands,NLD,02-Apr-20,4851
+Netherlands,NLD,03-Apr-20,5330
+Netherlands,NLD,04-Apr-20,3643
+Netherlands,NLD,05-Apr-20,2491
+Netherlands,NLD,06-Apr-20,4267
+Netherlands,NLD,07-Apr-20,6263
+Netherlands,NLD,08-Apr-20,8199
+Netherlands,NLD,09-Apr-20,7058
+Netherlands,NLD,10-Apr-20,6276
+Netherlands,NLD,11-Apr-20,4848
+Netherlands,NLD,12-Apr-20,3522
+Netherlands,NLD,13-Apr-20,2687
+Netherlands,NLD,14-Apr-20,4828
+Netherlands,NLD,15-Apr-20,7223
+Netherlands,NLD,16-Apr-20,5542
+New Zealand,NZL,10-Mar-20,89
+New Zealand,NZL,11-Mar-20,83
+New Zealand,NZL,12-Mar-20,31
+New Zealand,NZL,13-Mar-20,35
+New Zealand,NZL,14-Mar-20,34
+New Zealand,NZL,15-Mar-20,142
+New Zealand,NZL,16-Mar-20,325
+New Zealand,NZL,17-Mar-20,659
+New Zealand,NZL,18-Mar-20,1209
+New Zealand,NZL,19-Mar-20,1291
+New Zealand,NZL,20-Mar-20,1554
+New Zealand,NZL,21-Mar-20,1176
+New Zealand,NZL,22-Mar-20,1256
+New Zealand,NZL,23-Mar-20,1050
+New Zealand,NZL,24-Mar-20,1544
+New Zealand,NZL,25-Mar-20,2592
+New Zealand,NZL,26-Mar-20,2117
+New Zealand,NZL,27-Mar-20,2067
+New Zealand,NZL,28-Mar-20,1809
+New Zealand,NZL,29-Mar-20,918
+New Zealand,NZL,30-Mar-20,1391
+New Zealand,NZL,31-Mar-20,2093
+New Zealand,NZL,01-Apr-20,2562
+New Zealand,NZL,02-Apr-20,3446
+New Zealand,NZL,03-Apr-20,3631
+New Zealand,NZL,04-Apr-20,3093
+New Zealand,NZL,05-Apr-20,3709
+New Zealand,NZL,06-Apr-20,2908
+New Zealand,NZL,07-Apr-20,4049
+New Zealand,NZL,08-Apr-20,3990
+New Zealand,NZL,09-Apr-20,4520
+New Zealand,NZL,10-Apr-20,3061
+New Zealand,NZL,11-Apr-20,2421
+New Zealand,NZL,12-Apr-20,1660
+New Zealand,NZL,13-Apr-20,1572
+New Zealand,NZL,14-Apr-20,2100
+New Zealand,NZL,15-Apr-20,3661
+New Zealand,NZL,16-Apr-20,4241
+New Zealand,NZL,17-Apr-20,4677
+New Zealand,NZL,18-Apr-20,4146
+Nigeria,NGA,17-Apr-20,504
+Norway,NOR,17-Mar-20,3585
+Norway,NOR,18-Mar-20,6875
+Norway,NOR,19-Mar-20,6061
+Norway,NOR,20-Mar-20,9152
+Norway,NOR,21-Mar-20,5716
+Norway,NOR,22-Mar-20,4942
+Norway,NOR,23-Mar-20,6858
+Norway,NOR,24-Mar-20,9357
+Norway,NOR,25-Mar-20,2481
+Norway,NOR,26-Mar-20,803
+Norway,NOR,27-Mar-20,4144
+Norway,NOR,28-Mar-20,4548
+Norway,NOR,29-Mar-20,2552
+Norway,NOR,30-Mar-20,2055
+Norway,NOR,31-Mar-20,3057
+Norway,NOR,01-Apr-20,4017
+Norway,NOR,02-Apr-20,4322
+Norway,NOR,03-Apr-20,3399
+Norway,NOR,04-Apr-20,3879
+Norway,NOR,05-Apr-20,2844
+Norway,NOR,06-Apr-20,2590
+Norway,NOR,07-Apr-20,2597
+Norway,NOR,08-Apr-20,4181
+Norway,NOR,09-Apr-20,2957
+Norway,NOR,10-Apr-20,2136
+Norway,NOR,11-Apr-20,1109
+Norway,NOR,12-Apr-20,2207
+Norway,NOR,13-Apr-20,819
+Norway,NOR,14-Apr-20,1264
+Norway,NOR,15-Apr-20,1647
+Norway,NOR,16-Apr-20,3491
+Norway,NOR,17-Apr-20,2529
+Norway,NOR,18-Apr-20,3432
+Norway,NOR,19-Apr-20,2498
+Pakistan,PAK,12-Mar-20,60
+Pakistan,PAK,13-Mar-20,78
+Pakistan,PAK,14-Mar-20,75
+Pakistan,PAK,15-Mar-20,149
+Pakistan,PAK,16-Mar-20,292
+Pakistan,PAK,17-Mar-20,16
+Pakistan,PAK,18-Mar-20,1022
+Pakistan,PAK,19-Mar-20,1247
+Pakistan,PAK,20-Mar-20,591
+Pakistan,PAK,21-Mar-20,1224
+Pakistan,PAK,22-Mar-20,219
+Pakistan,PAK,23-Mar-20,413
+Pakistan,PAK,24-Mar-20,266
+Pakistan,PAK,25-Mar-20,326
+Pakistan,PAK,26-Mar-20,1386
+Pakistan,PAK,27-Mar-20,5396
+Pakistan,PAK,28-Mar-20,1105
+Pakistan,PAK,29-Mar-20,412
+Pakistan,PAK,30-Mar-20,935
+Pakistan,PAK,31-Mar-20,284
+Pakistan,PAK,01-Apr-20,1357
+Pakistan,PAK,02-Apr-20,12984
+Pakistan,PAK,03-Apr-20,2622
+Pakistan,PAK,04-Apr-20,1955
+Pakistan,PAK,05-Apr-20,990
+Pakistan,PAK,06-Apr-20,3308
+Pakistan,PAK,07-Apr-20,2976
+Pakistan,PAK,08-Apr-20,2737
+Pakistan,PAK,09-Apr-20,9810
+Pakistan,PAK,10-Apr-20,3130
+Pakistan,PAK,11-Apr-20,3965
+Pakistan,PAK,12-Apr-20,3313
+Pakistan,PAK,13-Apr-20,4814
+Pakistan,PAK,14-Apr-20,3511
+Pakistan,PAK,15-Apr-20,5540
+Pakistan,PAK,16-Apr-20,5725
+Pakistan,PAK,17-Apr-20,7844
+Pakistan,PAK,18-Apr-20,5974
+Panama,PAN,09-Mar-20,105
+Panama,PAN,10-Mar-20,41
+Panama,PAN,11-Mar-20,48
+Panama,PAN,12-Mar-20,207
+Panama,PAN,13-Mar-20,248
+Panama,PAN,14-Mar-20,208
+Panama,PAN,15-Mar-20,119
+Panama,PAN,16-Mar-20,97
+Panama,PAN,17-Mar-20,172
+Panama,PAN,18-Mar-20,210
+Panama,PAN,19-Mar-20,313
+Panama,PAN,20-Mar-20,401
+Panama,PAN,21-Mar-20,303
+Panama,PAN,22-Mar-20,69
+Panama,PAN,23-Mar-20,134
+Panama,PAN,24-Mar-20,457
+Panama,PAN,25-Mar-20,558
+Panama,PAN,26-Mar-20,608
+Panama,PAN,27-Mar-20,366
+Panama,PAN,28-Mar-20,540
+Panama,PAN,29-Mar-20,398
+Panama,PAN,30-Mar-20,422
+Panama,PAN,31-Mar-20,362
+Panama,PAN,01-Apr-20,389
+Panama,PAN,02-Apr-20,608
+Panama,PAN,03-Apr-20,753
+Panama,PAN,04-Apr-20,562
+Panama,PAN,05-Apr-20,443
+Panama,PAN,06-Apr-20,515
+Panama,PAN,07-Apr-20,467
+Panama,PAN,08-Apr-20,1095
+Panama,PAN,09-Apr-20,807
+Panama,PAN,10-Apr-20,1623
+Panama,PAN,11-Apr-20,940
+Panama,PAN,12-Apr-20,559
+Panama,PAN,13-Apr-20,420
+Panama,PAN,14-Apr-20,486
+Panama,PAN,15-Apr-20,801
+Panama,PAN,16-Apr-20,996
+Panama,PAN,17-Apr-20,709
+Panama,PAN,18-Apr-20,532
+Paraguay,PRY,07-Mar-20,1
+Paraguay,PRY,10-Mar-20,8
+Paraguay,PRY,11-Mar-20,7
+Paraguay,PRY,12-Mar-20,6
+Paraguay,PRY,13-Mar-20,17
+Paraguay,PRY,15-Mar-20,33
+Paraguay,PRY,16-Mar-20,27
+Paraguay,PRY,17-Mar-20,26
+Paraguay,PRY,18-Mar-20,24
+Paraguay,PRY,19-Mar-20,32
+Paraguay,PRY,20-Mar-20,44
+Paraguay,PRY,21-Mar-20,68
+Paraguay,PRY,22-Mar-20,37
+Paraguay,PRY,23-Mar-20,89
+Paraguay,PRY,24-Mar-20,91
+Paraguay,PRY,25-Mar-20,51
+Paraguay,PRY,26-Mar-20,78
+Paraguay,PRY,27-Mar-20,101
+Paraguay,PRY,28-Mar-20,60
+Paraguay,PRY,29-Mar-20,105
+Paraguay,PRY,30-Mar-20,68
+Paraguay,PRY,31-Mar-20,90
+Paraguay,PRY,01-Apr-20,95
+Paraguay,PRY,02-Apr-20,116
+Paraguay,PRY,03-Apr-20,165
+Paraguay,PRY,04-Apr-20,192
+Paraguay,PRY,05-Apr-20,200
+Paraguay,PRY,06-Apr-20,162
+Paraguay,PRY,07-Apr-20,212
+Paraguay,PRY,08-Apr-20,242
+Paraguay,PRY,09-Apr-20,223
+Paraguay,PRY,10-Apr-20,220
+Paraguay,PRY,11-Apr-20,230
+Paraguay,PRY,12-Apr-20,259
+Paraguay,PRY,13-Apr-20,248
+Paraguay,PRY,14-Apr-20,246
+Paraguay,PRY,15-Apr-20,379
+Paraguay,PRY,16-Apr-20,345
+Paraguay,PRY,17-Apr-20,338
+Paraguay,PRY,18-Apr-20,304
+Peru,PER,07-Mar-20,64
+Peru,PER,08-Mar-20,31
+Peru,PER,09-Mar-20,68
+Peru,PER,10-Mar-20,28
+Peru,PER,11-Mar-20,310
+Peru,PER,15-Mar-20,590
+Peru,PER,16-Mar-20,493
+Peru,PER,17-Mar-20,482
+Peru,PER,18-Mar-20,278
+Peru,PER,19-Mar-20,766
+Peru,PER,20-Mar-20,457
+Peru,PER,21-Mar-20,887
+Peru,PER,22-Mar-20,999
+Peru,PER,23-Mar-20,829
+Peru,PER,24-Mar-20,473
+Peru,PER,25-Mar-20,554
+Peru,PER,26-Mar-20,1179
+Peru,PER,27-Mar-20,846
+Peru,PER,28-Mar-20,831
+Peru,PER,29-Mar-20,1773
+Peru,PER,30-Mar-20,783
+Peru,PER,31-Mar-20,1011
+Peru,PER,01-Apr-20,1124
+Peru,PER,02-Apr-20,931
+Peru,PER,03-Apr-20,816
+Peru,PER,04-Apr-20,507
+Peru,PER,05-Apr-20,1569
+Peru,PER,06-Apr-20,1004
+Peru,PER,07-Apr-20,1141
+Peru,PER,08-Apr-20,18044
+Peru,PER,09-Apr-20,8866
+Peru,PER,10-Apr-20,8216
+Peru,PER,11-Apr-20,9031
+Peru,PER,12-Apr-20,10794
+Peru,PER,13-Apr-20,10610
+Peru,PER,14-Apr-20,15100
+Peru,PER,15-Apr-20,7169
+Peru,PER,16-Apr-20,12083
+Philippines,PHL,14-Apr-20,1840
+Philippines,PHL,15-Apr-20,2275
+Philippines,PHL,18-Apr-20,3221
+Poland,POL,09-Mar-20,230
+Poland,POL,10-Mar-20,246
+Poland,POL,11-Mar-20,394
+Poland,POL,12-Mar-20,210
+Poland,POL,13-Mar-20,655
+Poland,POL,18-Mar-20,1616
+Poland,POL,19-Mar-20,1681
+Poland,POL,20-Mar-20,1876
+Poland,POL,21-Mar-20,2012
+Poland,POL,22-Mar-20,2523
+Poland,POL,23-Mar-20,2520
+Poland,POL,24-Mar-20,2771
+Poland,POL,25-Mar-20,3346
+Poland,POL,26-Mar-20,3320
+Poland,POL,27-Mar-20,4503
+Poland,POL,28-Mar-20,4607
+Poland,POL,29-Mar-20,4109
+Poland,POL,30-Mar-20,3824
+Poland,POL,31-Mar-20,4812
+Poland,POL,01-Apr-20,4382
+Poland,POL,02-Apr-20,5377
+Poland,POL,03-Apr-20,5760
+Poland,POL,04-Apr-20,5963
+Poland,POL,05-Apr-20,7856
+Poland,POL,06-Apr-20,4710
+Poland,POL,07-Apr-20,6748
+Poland,POL,08-Apr-20,7069
+Poland,POL,09-Apr-20,8313
+Poland,POL,10-Apr-20,10698
+Poland,POL,11-Apr-20,11265
+Poland,POL,12-Apr-20,8447
+Poland,POL,13-Apr-20,5623
+Poland,POL,14-Apr-20,4691
+Poland,POL,15-Apr-20,8172
+Poland,POL,16-Apr-20,12578
+Poland,POL,17-Apr-20,10583
+Portugal,PRT,16-Mar-20,543
+Portugal,PRT,17-Mar-20,1173
+Portugal,PRT,18-Mar-20,1009
+Portugal,PRT,19-Mar-20,857
+Portugal,PRT,20-Mar-20,1309
+Portugal,PRT,21-Mar-20,1913
+Portugal,PRT,22-Mar-20,1832
+Portugal,PRT,23-Mar-20,1645
+Portugal,PRT,24-Mar-20,1419
+Portugal,PRT,25-Mar-20,5873
+Portugal,PRT,26-Mar-20,698
+Portugal,PRT,27-Mar-20,1174
+Portugal,PRT,28-Mar-20,6380
+Portugal,PRT,29-Mar-20,4718
+Portugal,PRT,30-Mar-20,6827
+Portugal,PRT,31-Mar-20,8115
+Portugal,PRT,01-Apr-20,7024
+Portugal,PRT,02-Apr-20,7437
+Portugal,PRT,03-Apr-20,7048
+Portugal,PRT,04-Apr-20,6584
+Portugal,PRT,05-Apr-20,5839
+Portugal,PRT,06-Apr-20,5886
+Portugal,PRT,07-Apr-20,7994
+Portugal,PRT,08-Apr-20,3695
+Portugal,PRT,09-Apr-20,12374
+Portugal,PRT,10-Apr-20,7698
+Portugal,PRT,11-Apr-20,7284
+Portugal,PRT,12-Apr-20,6293
+Portugal,PRT,13-Apr-20,3288
+Portugal,PRT,14-Apr-20,4120
+Portugal,PRT,15-Apr-20,6704
+Portugal,PRT,16-Apr-20,4073
+Portugal,PRT,17-Apr-20,3318
+Portugal,PRT,18-Apr-20,3410
+Portugal,PRT,19-Apr-20,25100
+Romania,ROU,13-Mar-20,624
+Romania,ROU,14-Mar-20,384
+Romania,ROU,15-Mar-20,276
+Romania,ROU,16-Mar-20,503
+Romania,ROU,17-Mar-20,442
+Romania,ROU,18-Mar-20,520
+Romania,ROU,19-Mar-20,303
+Romania,ROU,20-Mar-20,3311
+Romania,ROU,21-Mar-20,631
+Romania,ROU,22-Mar-20,1052
+Romania,ROU,23-Mar-20,1256
+Romania,ROU,24-Mar-20,1401
+Romania,ROU,25-Mar-20,1842
+Romania,ROU,26-Mar-20,1532
+Romania,ROU,27-Mar-20,1455
+Romania,ROU,28-Mar-20,2210
+Romania,ROU,29-Mar-20,1797
+Romania,ROU,30-Mar-20,1643
+Romania,ROU,31-Mar-20,1551
+Romania,ROU,01-Apr-20,1955
+Romania,ROU,02-Apr-20,1874
+Romania,ROU,03-Apr-20,3174
+Romania,ROU,04-Apr-20,4435
+Romania,ROU,05-Apr-20,2531
+Romania,ROU,06-Apr-20,2364
+Romania,ROU,07-Apr-20,2591
+Romania,ROU,08-Apr-20,3629
+Romania,ROU,09-Apr-20,4595
+Romania,ROU,10-Apr-20,3628
+Romania,ROU,11-Apr-20,3842
+Romania,ROU,12-Apr-20,3056
+Romania,ROU,13-Apr-20,4876
+Romania,ROU,14-Apr-20,2893
+Romania,ROU,15-Apr-20,4730
+Romania,ROU,16-Apr-20,4802
+Romania,ROU,17-Apr-20,6176
+Romania,ROU,18-Apr-20,5186
+Russia,RUS,06-Mar-20,4952
+Russia,RUS,07-Mar-20,4322
+Russia,RUS,08-Mar-20,4272
+Russia,RUS,09-Mar-20,3231
+Russia,RUS,12-Mar-20,6362
+Russia,RUS,15-Mar-20,10031
+Russia,RUS,16-Mar-20,5056
+Russia,RUS,17-Mar-20,6122
+Russia,RUS,18-Mar-20,6793
+Russia,RUS,19-Mar-20,10247
+Russia,RUS,20-Mar-20,10418
+Russia,RUS,21-Mar-20,12497
+Russia,RUS,22-Mar-20,7513
+Russia,RUS,23-Mar-20,2243
+Russia,RUS,24-Mar-20,20146
+Russia,RUS,25-Mar-20,6906
+Russia,RUS,26-Mar-20,4427
+Russia,RUS,27-Mar-20,26258
+Russia,RUS,28-Mar-20,19868
+Russia,RUS,29-Mar-20,20511
+Russia,RUS,30-Mar-20,79635
+Russia,RUS,02-Apr-20,129500
+Russia,RUS,03-Apr-20,39103
+Russia,RUS,04-Apr-20,64503
+Russia,RUS,05-Apr-20,57398
+Russia,RUS,06-Apr-20,61397
+Russia,RUS,07-Apr-20,37122
+Russia,RUS,08-Apr-20,114698
+Russia,RUS,09-Apr-20,94498
+Russia,RUS,10-Apr-20,88092
+Russia,RUS,11-Apr-20,91631
+Russia,RUS,12-Apr-20,94305
+Russia,RUS,13-Apr-20,81246
+Russia,RUS,14-Apr-20,66021
+Russia,RUS,15-Apr-20,91978
+Russia,RUS,16-Apr-20,95421
+Russia,RUS,17-Apr-20,104606
+Russia,RUS,18-Apr-20,113873
+Russia,RUS,19-Apr-20,117921
+Senegal,SEN,28-Feb-20,1
+Senegal,SEN,03-Mar-20,2
+Senegal,SEN,04-Mar-20,2
+Senegal,SEN,06-Mar-20,2
+Senegal,SEN,07-Mar-20,2
+Senegal,SEN,08-Mar-20,2
+Senegal,SEN,09-Mar-20,6
+Senegal,SEN,10-Mar-20,1
+Senegal,SEN,11-Mar-20,8
+Senegal,SEN,12-Mar-20,6
+Senegal,SEN,13-Mar-20,11
+Senegal,SEN,14-Mar-20,3
+Senegal,SEN,15-Mar-20,2
+Senegal,SEN,16-Mar-20,9
+Senegal,SEN,17-Mar-20,44
+Senegal,SEN,18-Mar-20,27
+Senegal,SEN,19-Mar-20,22
+Senegal,SEN,20-Mar-20,56
+Senegal,SEN,21-Mar-20,31
+Senegal,SEN,22-Mar-20,85
+Senegal,SEN,23-Mar-20,60
+Senegal,SEN,24-Mar-20,59
+Senegal,SEN,25-Mar-20,142
+Senegal,SEN,26-Mar-20,130
+Senegal,SEN,27-Mar-20,144
+Senegal,SEN,28-Mar-20,98
+Senegal,SEN,29-Mar-20,151
+Senegal,SEN,30-Mar-20,87
+Senegal,SEN,31-Mar-20,97
+Senegal,SEN,01-Apr-20,195
+Senegal,SEN,02-Apr-20,127
+Senegal,SEN,03-Apr-20,153
+Senegal,SEN,04-Apr-20,177
+Senegal,SEN,05-Apr-20,92
+Senegal,SEN,06-Apr-20,95
+Senegal,SEN,07-Apr-20,110
+Senegal,SEN,08-Apr-20,108
+Senegal,SEN,09-Apr-20,199
+Senegal,SEN,10-Apr-20,195
+Senegal,SEN,11-Apr-20,173
+Senegal,SEN,12-Apr-20,104
+Senegal,SEN,13-Apr-20,144
+Senegal,SEN,14-Apr-20,272
+Senegal,SEN,15-Apr-20,227
+Senegal,SEN,16-Apr-20,435
+Senegal,SEN,17-Apr-20,297
+Senegal,SEN,18-Apr-20,226
+Senegal,SEN,19-Apr-20,313
+Serbia,SRB,27-Feb-20,4
+Serbia,SRB,28-Feb-20,10
+Serbia,SRB,29-Feb-20,2
+Serbia,SRB,01-Mar-20,4
+Serbia,SRB,02-Mar-20,9
+Serbia,SRB,03-Mar-20,1
+Serbia,SRB,04-Mar-20,4
+Serbia,SRB,07-Mar-20,19
+Serbia,SRB,08-Mar-20,16
+Serbia,SRB,09-Mar-20,3
+Serbia,SRB,10-Mar-20,14
+Serbia,SRB,11-Mar-20,22
+Serbia,SRB,12-Mar-20,30
+Serbia,SRB,13-Mar-20,54
+Serbia,SRB,14-Mar-20,42
+Serbia,SRB,15-Mar-20,12
+Serbia,SRB,16-Mar-20,33
+Serbia,SRB,17-Mar-20,34
+Serbia,SRB,18-Mar-20,86
+Serbia,SRB,19-Mar-20,65
+Serbia,SRB,20-Mar-20,59
+Serbia,SRB,21-Mar-20,79
+Serbia,SRB,22-Mar-20,137
+Serbia,SRB,23-Mar-20,61
+Serbia,SRB,24-Mar-20,94
+Serbia,SRB,25-Mar-20,245
+Serbia,SRB,26-Mar-20,295
+Serbia,SRB,27-Mar-20,259
+Serbia,SRB,28-Mar-20,371
+Serbia,SRB,29-Mar-20,376
+Serbia,SRB,30-Mar-20,622
+Serbia,SRB,31-Mar-20,477
+Serbia,SRB,01-Apr-20,810
+Serbia,SRB,02-Apr-20,637
+Serbia,SRB,03-Apr-20,748
+Serbia,SRB,04-Apr-20,645
+Serbia,SRB,05-Apr-20,959
+Serbia,SRB,06-Apr-20,1192
+Serbia,SRB,07-Apr-20,1074
+Serbia,SRB,08-Apr-20,1135
+Serbia,SRB,09-Apr-20,1586
+Serbia,SRB,10-Apr-20,1893
+Serbia,SRB,11-Apr-20,2159
+Serbia,SRB,12-Apr-20,1913
+Serbia,SRB,13-Apr-20,2646
+Serbia,SRB,14-Apr-20,2440
+Serbia,SRB,15-Apr-20,2880
+Serbia,SRB,16-Apr-20,3194
+Serbia,SRB,17-Apr-20,3094
+Serbia,SRB,18-Apr-20,3462
+Serbia,SRB,19-Apr-20,2673
+Slovakia,SVK,16-Mar-20,368
+Slovakia,SVK,19-Mar-20,448
+Slovakia,SVK,20-Mar-20,268
+Slovakia,SVK,21-Mar-20,540
+Slovakia,SVK,22-Mar-20,242
+Slovakia,SVK,23-Mar-20,29
+Slovakia,SVK,03-Apr-20,1889
+Slovakia,SVK,04-Apr-20,1524
+Slovakia,SVK,09-Apr-20,2301
+Slovakia,SVK,10-Apr-20,2174
+Slovakia,SVK,11-Apr-20,1580
+Slovakia,SVK,12-Apr-20,1324
+Slovakia,SVK,13-Apr-20,1302
+Slovakia,SVK,14-Apr-20,1439
+Slovakia,SVK,15-Apr-20,2967
+Slovakia,SVK,16-Apr-20,3351
+Slovakia,SVK,17-Apr-20,3144
+Slovakia,SVK,18-Apr-20,3323
+Slovenia,SVN,25-Feb-20,21
+Slovenia,SVN,26-Feb-20,41
+Slovenia,SVN,27-Feb-20,43
+Slovenia,SVN,28-Feb-20,35
+Slovenia,SVN,29-Feb-20,16
+Slovenia,SVN,01-Mar-20,17
+Slovenia,SVN,02-Mar-20,54
+Slovenia,SVN,03-Mar-20,48
+Slovenia,SVN,04-Mar-20,51
+Slovenia,SVN,05-Mar-20,103
+Slovenia,SVN,06-Mar-20,278
+Slovenia,SVN,07-Mar-20,177
+Slovenia,SVN,08-Mar-20,238
+Slovenia,SVN,09-Mar-20,367
+Slovenia,SVN,10-Mar-20,542
+Slovenia,SVN,11-Mar-20,749
+Slovenia,SVN,12-Mar-20,1045
+Slovenia,SVN,13-Mar-20,1197
+Slovenia,SVN,14-Mar-20,916
+Slovenia,SVN,15-Mar-20,590
+Slovenia,SVN,16-Mar-20,871
+Slovenia,SVN,17-Mar-20,1121
+Slovenia,SVN,18-Mar-20,1026
+Slovenia,SVN,19-Mar-20,1184
+Slovenia,SVN,20-Mar-20,1242
+Slovenia,SVN,21-Mar-20,872
+Slovenia,SVN,22-Mar-20,731
+Slovenia,SVN,23-Mar-20,1257
+Slovenia,SVN,24-Mar-20,1243
+Slovenia,SVN,25-Mar-20,1181
+Slovenia,SVN,26-Mar-20,1075
+Slovenia,SVN,27-Mar-20,1387
+Slovenia,SVN,28-Mar-20,997
+Slovenia,SVN,29-Mar-20,596
+Slovenia,SVN,30-Mar-20,1125
+Slovenia,SVN,31-Mar-20,1288
+Slovenia,SVN,01-Apr-20,1095
+Slovenia,SVN,02-Apr-20,1064
+Slovenia,SVN,03-Apr-20,1188
+Slovenia,SVN,04-Apr-20,655
+Slovenia,SVN,05-Apr-20,489
+Slovenia,SVN,06-Apr-20,1202
+Slovenia,SVN,07-Apr-20,1214
+Slovenia,SVN,08-Apr-20,1144
+Slovenia,SVN,09-Apr-20,1234
+Slovenia,SVN,10-Apr-20,1232
+Slovenia,SVN,11-Apr-20,572
+Slovenia,SVN,12-Apr-20,554
+Slovenia,SVN,13-Apr-20,541
+Slovenia,SVN,14-Apr-20,1168
+Slovenia,SVN,15-Apr-20,1023
+Slovenia,SVN,16-Apr-20,1193
+Slovenia,SVN,17-Apr-20,1250
+Slovenia,SVN,18-Apr-20,685
+South Africa,ZAF,14-Feb-20,4
+South Africa,ZAF,20-Feb-20,11
+South Africa,ZAF,03-Mar-20,4
+South Africa,ZAF,07-Mar-20,41
+South Africa,ZAF,12-Mar-20,203
+South Africa,ZAF,13-Mar-20,76
+South Africa,ZAF,14-Mar-20,93
+South Africa,ZAF,15-Mar-20,459
+South Africa,ZAF,16-Mar-20,929
+South Africa,ZAF,17-Mar-20,506
+South Africa,ZAF,18-Mar-20,159
+South Africa,ZAF,19-Mar-20,1762
+South Africa,ZAF,20-Mar-20,1606
+South Africa,ZAF,21-Mar-20,987
+South Africa,ZAF,22-Mar-20,1890
+South Africa,ZAF,23-Mar-20,3500
+South Africa,ZAF,24-Mar-20,2714
+South Africa,ZAF,27-Mar-20,8066
+South Africa,ZAF,28-Mar-20,3426
+South Africa,ZAF,29-Mar-20,3630
+South Africa,ZAF,30-Mar-20,2816
+South Africa,ZAF,31-Mar-20,2663
+South Africa,ZAF,01-Apr-20,3220
+South Africa,ZAF,02-Apr-20,3673
+South Africa,ZAF,03-Apr-20,2396
+South Africa,ZAF,04-Apr-20,3576
+South Africa,ZAF,05-Apr-20,2936
+South Africa,ZAF,06-Apr-20,1225
+South Africa,ZAF,09-Apr-20,5098
+South Africa,ZAF,10-Apr-20,4154
+South Africa,ZAF,11-Apr-20,2025
+South Africa,ZAF,12-Apr-20,5032
+South Africa,ZAF,13-Apr-20,3578
+South Africa,ZAF,14-Apr-20,3359
+South Africa,ZAF,15-Apr-20,3493
+South Africa,ZAF,16-Apr-20,4545
+South Africa,ZAF,17-Apr-20,5767
+South Africa,ZAF,18-Apr-20,7374
+South Korea,KOR,22-Jan-20,5
+South Korea,KOR,27-Jan-20,9
+South Korea,KOR,28-Jan-20,130
+South Korea,KOR,02-Feb-20,58
+South Korea,KOR,05-Feb-20,107
+South Korea,KOR,06-Feb-20,171
+South Korea,KOR,07-Feb-20,245
+South Korea,KOR,08-Feb-20,571
+South Korea,KOR,09-Feb-20,639
+South Korea,KOR,10-Feb-20,436
+South Korea,KOR,11-Feb-20,853
+South Korea,KOR,12-Feb-20,1445
+South Korea,KOR,13-Feb-20,723
+South Korea,KOR,14-Feb-20,1057
+South Korea,KOR,15-Feb-20,665
+South Korea,KOR,16-Feb-20,400
+South Korea,KOR,17-Feb-20,252
+South Korea,KOR,18-Feb-20,1094
+South Korea,KOR,19-Feb-20,1146
+South Korea,KOR,20-Feb-20,1750
+South Korea,KOR,21-Feb-20,2655
+South Korea,KOR,22-Feb-20,4805
+South Korea,KOR,23-Feb-20,3012
+South Korea,KOR,24-Feb-20,5982
+South Korea,KOR,25-Feb-20,8101
+South Korea,KOR,26-Feb-20,9411
+South Korea,KOR,27-Feb-20,11863
+South Korea,KOR,28-Feb-20,12950
+South Korea,KOR,29-Feb-20,14753
+South Korea,KOR,01-Mar-20,11292
+South Korea,KOR,02-Mar-20,12606
+South Korea,KOR,03-Mar-20,16260
+South Korea,KOR,04-Mar-20,10856
+South Korea,KOR,05-Mar-20,9834
+South Korea,KOR,06-Mar-20,18199
+South Korea,KOR,07-Mar-20,13449
+South Korea,KOR,08-Mar-20,10329
+South Korea,KOR,09-Mar-20,8100
+South Korea,KOR,10-Mar-20,13526
+South Korea,KOR,11-Mar-20,12251
+South Korea,KOR,12-Mar-20,12603
+South Korea,KOR,13-Mar-20,13649
+South Korea,KOR,14-Mar-20,12688
+South Korea,KOR,15-Mar-20,6877
+South Korea,KOR,16-Mar-20,6292
+South Korea,KOR,17-Mar-20,12212
+South Korea,KOR,18-Mar-20,8931
+South Korea,KOR,19-Mar-20,11377
+South Korea,KOR,20-Mar-20,9640
+South Korea,KOR,21-Mar-20,10845
+South Korea,KOR,22-Mar-20,4271
+South Korea,KOR,23-Mar-20,6256
+South Korea,KOR,24-Mar-20,10546
+South Korea,KOR,25-Mar-20,9314
+South Korea,KOR,26-Mar-20,7046
+South Korea,KOR,27-Mar-20,12019
+South Korea,KOR,28-Mar-20,10964
+South Korea,KOR,29-Mar-20,6216
+South Korea,KOR,30-Mar-20,1053
+South Korea,KOR,31-Mar-20,15370
+South Korea,KOR,01-Apr-20,10983
+South Korea,KOR,02-Apr-20,10196
+South Korea,KOR,03-Apr-20,11530
+South Korea,KOR,04-Apr-20,11759
+South Korea,KOR,05-Apr-20,6201
+South Korea,KOR,06-Apr-20,5571
+South Korea,KOR,07-Apr-20,10500
+South Korea,KOR,08-Apr-20,8699
+South Korea,KOR,09-Apr-20,8708
+South Korea,KOR,10-Apr-20,8340
+South Korea,KOR,11-Apr-20,7428
+South Korea,KOR,12-Apr-20,4142
+South Korea,KOR,13-Apr-20,4122
+South Korea,KOR,14-Apr-20,8695
+South Korea,KOR,15-Apr-20,7114
+South Korea,KOR,16-Apr-20,4223
+South Korea,KOR,17-Apr-20,7688
+South Korea,KOR,18-Apr-20,8371
+South Korea,KOR,19-Apr-20,4275
+Switzerland,CHE,26-Mar-20,7400
+Switzerland,CHE,27-Mar-20,5600
+Switzerland,CHE,28-Mar-20,9000
+Switzerland,CHE,29-Mar-20,5000
+Switzerland,CHE,30-Mar-20,5700
+Switzerland,CHE,31-Mar-20,6450
+Switzerland,CHE,01-Apr-20,7550
+Switzerland,CHE,02-Apr-20,8630
+Switzerland,CHE,03-Apr-20,6450
+Switzerland,CHE,06-Apr-20,4500
+Switzerland,CHE,09-Apr-20,6562
+Switzerland,CHE,10-Apr-20,6250
+Switzerland,CHE,11-Apr-20,5250
+Switzerland,CHE,12-Apr-20,3800
+Switzerland,CHE,13-Apr-20,2800
+Switzerland,CHE,14-Apr-20,2400
+Switzerland,CHE,15-Apr-20,3633
+Switzerland,CHE,16-Apr-20,3767
+Switzerland,CHE,17-Apr-20,5000
+Switzerland,CHE,18-Apr-20,5000
+Switzerland,CHE,19-Apr-20,4863
+Taiwan,TWN,07-Mar-20,300
+Taiwan,TWN,08-Mar-20,299
+Taiwan,TWN,09-Mar-20,481
+Taiwan,TWN,10-Mar-20,335
+Taiwan,TWN,11-Mar-20,443
+Taiwan,TWN,12-Mar-20,676
+Taiwan,TWN,13-Mar-20,441
+Taiwan,TWN,14-Mar-20,381
+Taiwan,TWN,15-Mar-20,308
+Taiwan,TWN,16-Mar-20,716
+Taiwan,TWN,17-Mar-20,877
+Taiwan,TWN,18-Mar-20,1202
+Taiwan,TWN,19-Mar-20,1362
+Taiwan,TWN,20-Mar-20,1367
+Taiwan,TWN,21-Mar-20,1062
+Taiwan,TWN,22-Mar-20,804
+Taiwan,TWN,23-Mar-20,1137
+Taiwan,TWN,24-Mar-20,914
+Taiwan,TWN,25-Mar-20,872
+Taiwan,TWN,26-Mar-20,975
+Taiwan,TWN,27-Mar-20,882
+Taiwan,TWN,28-Mar-20,526
+Taiwan,TWN,29-Mar-20,862
+Taiwan,TWN,30-Mar-20,1023
+Taiwan,TWN,31-Mar-20,926
+Taiwan,TWN,01-Apr-20,1007
+Taiwan,TWN,02-Apr-20,824
+Taiwan,TWN,03-Apr-20,885
+Taiwan,TWN,04-Apr-20,862
+Taiwan,TWN,05-Apr-20,915
+Taiwan,TWN,06-Apr-20,1792
+Taiwan,TWN,07-Apr-20,1691
+Taiwan,TWN,08-Apr-20,1613
+Taiwan,TWN,09-Apr-20,1571
+Taiwan,TWN,10-Apr-20,1560
+Taiwan,TWN,11-Apr-20,1101
+Taiwan,TWN,12-Apr-20,668
+Taiwan,TWN,13-Apr-20,1334
+Taiwan,TWN,14-Apr-20,1199
+Taiwan,TWN,15-Apr-20,955
+Taiwan,TWN,16-Apr-20,900
+Taiwan,TWN,17-Apr-20,842
+Taiwan,TWN,18-Apr-20,560
+Thailand,THA,04-Mar-20,215
+Thailand,THA,05-Mar-20,128
+Thailand,THA,06-Mar-20,211
+Thailand,THA,07-Mar-20,132
+Thailand,THA,08-Mar-20,152
+Thailand,THA,09-Mar-20,164
+Thailand,THA,10-Mar-20,166
+Thailand,THA,11-Mar-20,384
+Thailand,THA,12-Mar-20,264
+Thailand,THA,13-Mar-20,217
+Thailand,THA,16-Mar-20,500
+Thailand,THA,19-Mar-20,572
+Thailand,THA,20-Mar-20,941
+Thailand,THA,21-Mar-20,673
+Thailand,THA,22-Mar-20,582
+Thailand,THA,23-Mar-20,882
+Thailand,THA,24-Mar-20,1220
+Thailand,THA,25-Mar-20,995
+Thailand,THA,26-Mar-20,1270
+Thailand,THA,27-Mar-20,1181
+Thailand,THA,28-Mar-20,667
+Thailand,THA,29-Mar-20,639
+Thailand,THA,30-Mar-20,917
+Thailand,THA,31-Mar-20,1401
+Thailand,THA,01-Apr-20,911
+Thailand,THA,02-Apr-20,1445
+Thailand,THA,03-Apr-20,1216
+Thailand,THA,04-Apr-20,805
+Thailand,THA,05-Apr-20,597
+Thailand,THA,06-Apr-20,786
+Thailand,THA,07-Apr-20,1192
+Thailand,THA,08-Apr-20,1660
+Thailand,THA,09-Apr-20,1833
+Thailand,THA,10-Apr-20,1442
+Thailand,THA,11-Apr-20,846
+Thailand,THA,12-Apr-20,980
+Thailand,THA,13-Apr-20,976
+Thailand,THA,14-Apr-20,666
+Thailand,THA,15-Apr-20,1043
+Thailand,THA,16-Apr-20,967
+Tunisia,TUN,10-Mar-20,28
+Tunisia,TUN,11-Mar-20,71
+Tunisia,TUN,12-Mar-20,42
+Tunisia,TUN,13-Mar-20,70
+Tunisia,TUN,14-Mar-20,31
+Tunisia,TUN,15-Mar-20,70
+Tunisia,TUN,16-Mar-20,67
+Tunisia,TUN,17-Mar-20,70
+Tunisia,TUN,18-Mar-20,86
+Tunisia,TUN,19-Mar-20,79
+Tunisia,TUN,20-Mar-20,126
+Tunisia,TUN,21-Mar-20,135
+Tunisia,TUN,22-Mar-20,132
+Tunisia,TUN,23-Mar-20,138
+Tunisia,TUN,24-Mar-20,229
+Tunisia,TUN,25-Mar-20,309
+Tunisia,TUN,26-Mar-20,282
+Tunisia,TUN,27-Mar-20,724
+Tunisia,TUN,28-Mar-20,536
+Tunisia,TUN,29-Mar-20,447
+Tunisia,TUN,30-Mar-20,442
+Tunisia,TUN,31-Mar-20,550
+Tunisia,TUN,01-Apr-20,674
+Tunisia,TUN,02-Apr-20,606
+Tunisia,TUN,03-Apr-20,749
+Tunisia,TUN,04-Apr-20,658
+Tunisia,TUN,05-Apr-20,580
+Tunisia,TUN,06-Apr-20,549
+Tunisia,TUN,07-Apr-20,604
+Tunisia,TUN,08-Apr-20,692
+Tunisia,TUN,09-Apr-20,571
+Tunisia,TUN,10-Apr-20,589
+Tunisia,TUN,11-Apr-20,562
+Tunisia,TUN,12-Apr-20,587
+Tunisia,TUN,13-Apr-20,590
+Tunisia,TUN,14-Apr-20,722
+Tunisia,TUN,15-Apr-20,793
+Tunisia,TUN,16-Apr-20,710
+Tunisia,TUN,17-Apr-20,692
+Turkey,TUR,19-Mar-20,1981
+Turkey,TUR,20-Mar-20,3656
+Turkey,TUR,21-Mar-20,2952
+Turkey,TUR,22-Mar-20,1738
+Turkey,TUR,23-Mar-20,3672
+Turkey,TUR,24-Mar-20,3952
+Turkey,TUR,25-Mar-20,5035
+Turkey,TUR,26-Mar-20,7286
+Turkey,TUR,27-Mar-20,7533
+Turkey,TUR,28-Mar-20,7641
+Turkey,TUR,29-Mar-20,9982
+Turkey,TUR,30-Mar-20,11535
+Turkey,TUR,31-Mar-20,15422
+Turkey,TUR,01-Apr-20,14396
+Turkey,TUR,02-Apr-20,18757
+Turkey,TUR,03-Apr-20,16160
+Turkey,TUR,04-Apr-20,19664
+Turkey,TUR,05-Apr-20,20065
+Turkey,TUR,06-Apr-20,21400
+Turkey,TUR,07-Apr-20,26023
+Turkey,TUR,08-Apr-20,18900
+Turkey,TUR,09-Apr-20,28570
+Turkey,TUR,10-Apr-20,30872
+Turkey,TUR,11-Apr-20,33170
+Turkey,TUR,12-Apr-20,35720
+Turkey,TUR,13-Apr-20,34456
+Turkey,TUR,14-Apr-20,33070
+Turkey,TUR,15-Apr-20,34090
+Turkey,TUR,16-Apr-20,40427
+Turkey,TUR,17-Apr-20,40270
+Turkey,TUR,18-Apr-20,40520
+Uganda,UGA,07-Apr-20,150
+Uganda,UGA,08-Apr-20,214
+Uganda,UGA,09-Apr-20,338
+Uganda,UGA,10-Apr-20,439
+Uganda,UGA,13-Apr-20,639
+Uganda,UGA,14-Apr-20,997
+United Kingdom,GBR,26-Jan-20,21
+United Kingdom,GBR,27-Jan-20,21
+United Kingdom,GBR,28-Jan-20,24
+United Kingdom,GBR,29-Jan-20,33
+United Kingdom,GBR,30-Jan-20,31
+United Kingdom,GBR,31-Jan-20,16
+United Kingdom,GBR,01-Feb-20,26
+United Kingdom,GBR,02-Feb-20,63
+United Kingdom,GBR,03-Feb-20,60
+United Kingdom,GBR,04-Feb-20,90
+United Kingdom,GBR,05-Feb-20,52
+United Kingdom,GBR,06-Feb-20,98
+United Kingdom,GBR,07-Feb-20,54
+United Kingdom,GBR,08-Feb-20,66
+United Kingdom,GBR,09-Feb-20,109
+United Kingdom,GBR,10-Feb-20,319
+United Kingdom,GBR,11-Feb-20,244
+United Kingdom,GBR,12-Feb-20,400
+United Kingdom,GBR,13-Feb-20,763
+United Kingdom,GBR,14-Feb-20,443
+United Kingdom,GBR,15-Feb-20,28
+United Kingdom,GBR,16-Feb-20,117
+United Kingdom,GBR,17-Feb-20,1392
+United Kingdom,GBR,18-Feb-20,415
+United Kingdom,GBR,19-Feb-20,291
+United Kingdom,GBR,20-Feb-20,342
+United Kingdom,GBR,21-Feb-20,336
+United Kingdom,GBR,22-Feb-20,267
+United Kingdom,GBR,23-Feb-20,172
+United Kingdom,GBR,24-Feb-20,212
+United Kingdom,GBR,25-Feb-20,259
+United Kingdom,GBR,26-Feb-20,337
+United Kingdom,GBR,27-Feb-20,558
+United Kingdom,GBR,28-Feb-20,1296
+United Kingdom,GBR,29-Feb-20,1497
+United Kingdom,GBR,01-Mar-20,1267
+United Kingdom,GBR,02-Mar-20,1775
+United Kingdom,GBR,03-Mar-20,386
+United Kingdom,GBR,04-Mar-20,2748
+United Kingdom,GBR,05-Mar-20,1424
+United Kingdom,GBR,06-Mar-20,2255
+United Kingdom,GBR,07-Mar-20,1122
+United Kingdom,GBR,08-Mar-20,2053
+United Kingdom,GBR,09-Mar-20,1447
+United Kingdom,GBR,10-Mar-20,1301
+United Kingdom,GBR,11-Mar-20,1215
+United Kingdom,GBR,12-Mar-20,2288
+United Kingdom,GBR,13-Mar-20,3007
+United Kingdom,GBR,14-Mar-20,4975
+United Kingdom,GBR,15-Mar-20,2533
+United Kingdom,GBR,16-Mar-20,3826
+United Kingdom,GBR,17-Mar-20,6337
+United Kingdom,GBR,18-Mar-20,5779
+United Kingdom,GBR,19-Mar-20,8400
+United Kingdom,GBR,20-Mar-20,2355
+United Kingdom,GBR,21-Mar-20,5842
+United Kingdom,GBR,22-Mar-20,5522
+United Kingdom,GBR,23-Mar-20,5605
+United Kingdom,GBR,24-Mar-20,6491
+United Kingdom,GBR,25-Mar-20,6583
+United Kingdom,GBR,26-Mar-20,7847
+United Kingdom,GBR,27-Mar-20,8911
+United Kingdom,GBR,28-Mar-20,6999
+United Kingdom,GBR,29-Mar-20,6961
+United Kingdom,GBR,30-Mar-20,7209
+United Kingdom,GBR,31-Mar-20,8240
+United Kingdom,GBR,01-Apr-20,9793
+United Kingdom,GBR,02-Apr-20,10215
+United Kingdom,GBR,03-Apr-20,10590
+United Kingdom,GBR,04-Apr-20,9406
+United Kingdom,GBR,05-Apr-20,12334
+United Kingdom,GBR,06-Apr-20,13313
+United Kingdom,GBR,07-Apr-20,4344
+United Kingdom,GBR,08-Apr-20,19527
+United Kingdom,GBR,09-Apr-20,10713
+United Kingdom,GBR,10-Apr-20,13184
+United Kingdom,GBR,11-Apr-20,12993
+United Kingdom,GBR,12-Apr-20,12776
+United Kingdom,GBR,13-Apr-20,8346
+United Kingdom,GBR,14-Apr-20,11879
+United Kingdom,GBR,15-Apr-20,11170
+United Kingdom,GBR,16-Apr-20,13839
+United Kingdom,GBR,17-Apr-20,13943
+United Kingdom,GBR,18-Apr-20,15472
+United Kingdom,GBR,19-Apr-20,15944
+United States,USA,08-Mar-20,677
+United States,USA,09-Mar-20,1326
+United States,USA,10-Mar-20,785
+United States,USA,11-Mar-20,2686
+United States,USA,12-Mar-20,2399
+United States,USA,13-Mar-20,6446
+United States,USA,14-Mar-20,4240
+United States,USA,15-Mar-20,6578
+United States,USA,16-Mar-20,14760
+United States,USA,17-Mar-20,14133
+United States,USA,18-Mar-20,21688
+United States,USA,19-Mar-20,25966
+United States,USA,20-Mar-20,35805
+United States,USA,21-Mar-20,45093
+United States,USA,22-Mar-20,46526
+United States,USA,23-Mar-20,55729
+United States,USA,24-Mar-20,66583
+United States,USA,25-Mar-20,78890
+United States,USA,26-Mar-20,96393
+United States,USA,27-Mar-20,110641
+United States,USA,28-Mar-20,107930
+United States,USA,29-Mar-20,93086
+United States,USA,30-Mar-20,118644
+United States,USA,31-Mar-20,106972
+United States,USA,01-Apr-20,103481
+United States,USA,02-Apr-20,121955
+United States,USA,03-Apr-20,132011
+United States,USA,04-Apr-20,229268
+United States,USA,05-Apr-20,122603
+United States,USA,06-Apr-20,149248
+United States,USA,07-Apr-20,148099
+United States,USA,08-Apr-20,139536
+United States,USA,09-Apr-20,162789
+United States,USA,10-Apr-20,153860
+United States,USA,11-Apr-20,136451
+United States,USA,12-Apr-20,140226
+United States,USA,13-Apr-20,129114
+United States,USA,14-Apr-20,146614
+United States,USA,15-Apr-20,161135
+United States,USA,16-Apr-20,158309
+United States,USA,17-Apr-20,156429
+United States,USA,18-Apr-20,141041
+"United States, specimens tested (CDC)",,18-Jan-20,4
+"United States, specimens tested (CDC)",,20-Jan-20,7
+"United States, specimens tested (CDC)",,21-Jan-20,3
+"United States, specimens tested (CDC)",,22-Jan-20,10
+"United States, specimens tested (CDC)",,23-Jan-20,36
+"United States, specimens tested (CDC)",,24-Jan-20,53
+"United States, specimens tested (CDC)",,25-Jan-20,101
+"United States, specimens tested (CDC)",,26-Jan-20,79
+"United States, specimens tested (CDC)",,27-Jan-20,77
+"United States, specimens tested (CDC)",,28-Jan-20,65
+"United States, specimens tested (CDC)",,29-Jan-20,102
+"United States, specimens tested (CDC)",,30-Jan-20,256
+"United States, specimens tested (CDC)",,31-Jan-20,63
+"United States, specimens tested (CDC)",,01-Feb-20,313
+"United States, specimens tested (CDC)",,02-Feb-20,33
+"United States, specimens tested (CDC)",,03-Feb-20,132
+"United States, specimens tested (CDC)",,04-Feb-20,93
+"United States, specimens tested (CDC)",,05-Feb-20,107
+"United States, specimens tested (CDC)",,06-Feb-20,76
+"United States, specimens tested (CDC)",,07-Feb-20,93
+"United States, specimens tested (CDC)",,08-Feb-20,79
+"United States, specimens tested (CDC)",,09-Feb-20,38
+"United States, specimens tested (CDC)",,10-Feb-20,38
+"United States, specimens tested (CDC)",,11-Feb-20,97
+"United States, specimens tested (CDC)",,12-Feb-20,58
+"United States, specimens tested (CDC)",,13-Feb-20,48
+"United States, specimens tested (CDC)",,14-Feb-20,41
+"United States, specimens tested (CDC)",,15-Feb-20,55
+"United States, specimens tested (CDC)",,16-Feb-20,25
+"United States, specimens tested (CDC)",,17-Feb-20,35
+"United States, specimens tested (CDC)",,18-Feb-20,43
+"United States, specimens tested (CDC)",,19-Feb-20,69
+"United States, specimens tested (CDC)",,20-Feb-20,59
+"United States, specimens tested (CDC)",,21-Feb-20,252
+"United States, specimens tested (CDC)",,22-Feb-20,257
+"United States, specimens tested (CDC)",,23-Feb-20,69
+"United States, specimens tested (CDC)",,24-Feb-20,69
+"United States, specimens tested (CDC)",,25-Feb-20,64
+"United States, specimens tested (CDC)",,26-Feb-20,111
+"United States, specimens tested (CDC)",,27-Feb-20,204
+"United States, specimens tested (CDC)",,28-Feb-20,271
+"United States, specimens tested (CDC)",,29-Feb-20,369
+"United States, specimens tested (CDC)",,01-Mar-20,294
+"United States, specimens tested (CDC)",,02-Mar-20,672
+"United States, specimens tested (CDC)",,03-Mar-20,896
+"United States, specimens tested (CDC)",,04-Mar-20,1305
+"United States, specimens tested (CDC)",,05-Mar-20,1838
+"United States, specimens tested (CDC)",,06-Mar-20,2015
+"United States, specimens tested (CDC)",,07-Mar-20,1712
+"United States, specimens tested (CDC)",,08-Mar-20,1779
+"United States, specimens tested (CDC)",,09-Mar-20,3485
+"United States, specimens tested (CDC)",,10-Mar-20,3847
+"United States, specimens tested (CDC)",,11-Mar-20,4638
+"United States, specimens tested (CDC)",,12-Mar-20,6549
+"United States, specimens tested (CDC)",,13-Mar-20,7005
+"United States, specimens tested (CDC)",,14-Mar-20,6211
+"United States, specimens tested (CDC)",,15-Mar-20,5881
+"United States, specimens tested (CDC)",,16-Mar-20,11330
+"United States, specimens tested (CDC)",,17-Mar-20,11548
+"United States, specimens tested (CDC)",,18-Mar-20,10846
+"United States, specimens tested (CDC)",,19-Mar-20,10601
+"United States, specimens tested (CDC)",,20-Mar-20,10337
+"United States, specimens tested (CDC)",,21-Mar-20,5982
+"United States, specimens tested (CDC)",,22-Mar-20,5209
+"United States, specimens tested (CDC)",,23-Mar-20,9487
+"United States, specimens tested (CDC)",,24-Mar-20,9595
+"United States, specimens tested (CDC)",,25-Mar-20,10171
+"United States, specimens tested (CDC)",,26-Mar-20,10768
+"United States, specimens tested (CDC)",,27-Mar-20,10569
+"United States, specimens tested (CDC)",,28-Mar-20,7201
+"United States, specimens tested (CDC)",,29-Mar-20,5872
+"United States, specimens tested (CDC)",,30-Mar-20,11913
+"United States, specimens tested (CDC)",,31-Mar-20,12280
+"United States, specimens tested (CDC)",,01-Apr-20,11961
+"United States, specimens tested (CDC)",,02-Apr-20,13086
+"United States, specimens tested (CDC)",,03-Apr-20,13455
+"United States, specimens tested (CDC)",,04-Apr-20,7871
+"United States, specimens tested (CDC)",,05-Apr-20,7295
+"United States, specimens tested (CDC)",,06-Apr-20,13611
+"United States, specimens tested (CDC)",,07-Apr-20,12970
+"United States, specimens tested (CDC)",,08-Apr-20,13414
+"United States, specimens tested (CDC)",,09-Apr-20,12393
+"United States, specimens tested (CDC)",,10-Apr-20,12711
+Uruguay,URY,11-Mar-20,68
+Uruguay,URY,12-Mar-20,89
+Uruguay,URY,13-Mar-20,86
+Uruguay,URY,14-Mar-20,127
+Uruguay,URY,15-Mar-20,43
+Uruguay,URY,16-Mar-20,171
+Uruguay,URY,17-Mar-20,114
+Uruguay,URY,18-Mar-20,154
+Uruguay,URY,19-Mar-20,116
+Uruguay,URY,20-Mar-20,119
+Uruguay,URY,21-Mar-20,148
+Uruguay,URY,22-Mar-20,227
+Uruguay,URY,23-Mar-20,157
+Uruguay,URY,24-Mar-20,165
+Uruguay,URY,25-Mar-20,29
+Uruguay,URY,26-Mar-20,677
+Uruguay,URY,27-Mar-20,487
+Uruguay,URY,28-Mar-20,158
+Uruguay,URY,29-Mar-20,222
+Uruguay,URY,30-Mar-20,263
+Uruguay,URY,31-Mar-20,153
+Uruguay,URY,01-Apr-20,373
+Uruguay,URY,02-Apr-20,132
+Uruguay,URY,03-Apr-20,110
+Uruguay,URY,04-Apr-20,194
+Uruguay,URY,05-Apr-20,444
+Uruguay,URY,06-Apr-20,265
+Uruguay,URY,07-Apr-20,162
+Uruguay,URY,08-Apr-20,510
+Uruguay,URY,09-Apr-20,263
+Uruguay,URY,10-Apr-20,154
+Uruguay,URY,11-Apr-20,156
+Uruguay,URY,12-Apr-20,154
+Uruguay,URY,13-Apr-20,106
+Uruguay,URY,14-Apr-20,76
+Uruguay,URY,15-Apr-20,193
+Uruguay,URY,16-Apr-20,214
+Uruguay,URY,17-Apr-20,172
+Uruguay,URY,18-Apr-20,227
+Vietnam,VNM,03-Mar-20,32
+Vietnam,VNM,06-Mar-20,84
+Vietnam,VNM,12-Mar-20,117
+Vietnam,VNM,13-Mar-20,201
+Vietnam,VNM,14-Mar-20,446
+Vietnam,VNM,15-Mar-20,2280
+Vietnam,VNM,16-Mar-20,7
+Vietnam,VNM,17-Mar-20,2174
+Vietnam,VNM,18-Mar-20,5254
+Vietnam,VNM,25-Mar-20,6237
+Vietnam,VNM,26-Mar-20,1333
+Vietnam,VNM,27-Mar-20,3927
+Vietnam,VNM,02-Apr-20,5708
+Vietnam,VNM,03-Apr-20,2294
+Vietnam,VNM,07-Apr-20,12294
+Vietnam,VNM,08-Apr-20,3525
+Vietnam,VNM,09-Apr-20,4117
+Vietnam,VNM,10-Apr-20,4566
+Vietnam,VNM,11-Apr-20,3014
+Vietnam,VNM,15-Apr-20,3167
+Vietnam,VNM,16-Apr-20,70315
