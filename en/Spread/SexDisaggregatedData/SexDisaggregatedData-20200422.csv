@@ -1,0 +1,63 @@
+Country,SexDisaggregated,Date,TotalCases,PercentCasesMale,PercentCasesFemale,Deaths,PercentDeathsMale,PercentDeathsFemale,DeathsAmongConfirmedCasesMale,DeathsInConfirmedCasesFemale,DeathsInConfirmedCasesMFRatio,Sources
+Thailand,Yes,20.04.20,"2,811.00",51,45,48,81,19,2.70%,0.70%,3.8,Source
+Dominican Republic,Yes,19.04.20,"4,964.00",54,46,235,79,21,6.90%,2.20%,3.2,Source
+Greece,Yes,20.04.20,"2,174.00",56,44,116,74,26,7.10%,3.10%,2.3,Source
+The Netherlands,Yes,21.04.20,"34,089.00",39,61,"3,916",59,41,17.20%,7.80%,2.2,Source
+Denmark,Yes,21.04.20,"7,695.00",43,57,370,59,41,6.50%,3.50%,1.9,Source
+Italy,Yes,16.04.20,"158,727.00",50,50,"19,996",65,35,16.40%,8.70%,1.9,Source
+Philippines,Yes,21.04.20,"6,597.00",53,47,437,68,32,8.40%,4.60%,1.9,Source
+Belgium,Yes,20.04.20,"40,795.00",38,62,"4,283",52,48,14.30%,8.10%,1.8,Source
+Spain,Yes,20.04.20,"145,778.00",46,54,"12,364",60,40,11.00%,6.30%,1.8,Source
+Northern Ireland,Yes,20.04.20,"2,724.00",41,59,206,56,44,10.40%,5.60%,1.8,Source
+China,Yes,28.02.20,"55,924.00",51,49,"2,114",64,36,4.70%,2.80%,1.7,Source
+South Korea,Yes,21.04.20,"10,683.00",40,56,237,53,47,2.90%,1.80%,1.7,Source
+Switzerland,Yes,21.04.20,"28,028.00",46,54,"1,186",59,41,5.50%,3.20%,1.7,Source
+Colombia,Yes,20.04.20,"3,977.00",51,49,189,64,36,6.00%,3.50%,1.7,Source
+Australia,Yes,21.04.20,"6,638.00",50,49,71,62,38,1.30%,0.80%,1.6,Source
+Republic of Ireland,Yes,19.04.20,"15,303.00",44,56,686,55,45,5.60%,3.60%,1.6,Source
+Peru,Yes,20.04.20,"16,325.00",62,38,445,73,27,3.20%,2.00%,1.6,Source
+Mexico,Yes,21.04.20,"9,501.00",58,42,857,69,31,10.80%,6.60%,1.6,Source
+Finland,Yes,21.04.20,"4,014.00",48,52,101,58,42,3.10%,2.00%,1.5,Source
+Germany,Yes,20.04.20,"141,672.00",48,52,"4,404",58,42,3.80%,2.50%,1.5,Source
+Sweden,Yes,21.04.20,"15,322.00",47,53,"1,765",57,43,13.90%,9.40%,1.5,Source
+South Africa,Yes,19.04.20,"3,142.00",45,55,43,56,44,1.70%,1.10%,1.5,Source
+Austria,Yes,21.04.20,"14,828.00",49,51,456,57,43,3.60%,2.60%,1.4,Source
+Norway,Yes,20.04.20,"7,166.00",49,51,163,57,43,2.60%,1.90%,1.4,Source
+Portugal,Yes,20.04.20,"21,379.00",41,59,762,50,50,4.30%,3.00%,1.4,Source
+Canada,Yes,20.04.20,"20,515.00",45,55,687,51,49,3.80%,3.00%,1.3,Source
+Iran,Yes,17.03.20,"14,991.00",57,43,853,59,41,5.90%,5.40%,1.1,Source
+Pakistan,Yes,22.04.20,"9,749.00",77,23,209,75,25,2.10%,2.30%,0.9,Source
+India,Yes,06.04.20,"4,065.00",76,24,111,73,27,2.60%,3.10%,0.9,Source
+Brazil,Partial,20.04.20,"40,581.00",,,"2,575",49,32,,,,Source
+Chile,Partial,19.04.20,"10,451.00",57,40,139,,,,,,Source
+Czech Republic,Partial,21.04.20,"6,914.00",46,51,196,,,,,,Source
+Ecuador,Yes,20.04.20,"10,128.00",59,41,507,71,29,,,,Source
+France**,Partial,21.04.20,"179,051.00",,,"12,798",60,40,,,,Source
+Indonesia,No,21.04.20,"6,760.00",,,590,,,,,,Source
+Israel,Partial,11.04.20,"10,743.00",,,96,53,47,,,,Source
+Japan,Partial,18.04.20,"10,432.00",59,41,222,,,,,,Source
+Luxembourg,Partial,21.04.20,"3,618",51,49,78,,,,,,Source
+Malaysia,Partial,20.04.20,"5,425.00",,,87,79,21,,,,Source
+Poland,Partial,21.04.20,"9,856.00",,,401,53,46,,,,Source
+Romania,Partial,13.04.20,"6,879",,,333,65,35,,,,Source
+Russia,No,22.04.20,"57,999",,,513,,,,,,Source
+Saudi Arabia,No,20.04.20,"9,362",,,97,,,,,,Source
+Turkey,No,21.04.20,"95,591",,,"2,259",,,,,,Source
+England and Wales*,Partial,10.04.20,,,,"10,335",61,39,,,,Source
+USA,Partial,18.04.20,,,,"17,229",59,41,,,,Source
+Scotland,Partial,12.04.20,,,,962,57,43,,,,Source
+Singapore,Partial,19.04.20,"6,532",89,11,11,,,,,,Source
+Qatar,No,21.04.20,"6,533",,,9,,,,,,Source
+Belarus,No,20.04.20,"6,264",,,51,,,,,,Source
+Ukraine,Partial,21.04.20,"6,125",,,161,52,48,,,,Source
+Panama,Partial,20.04.20,"4,658",62,38,136,,,,,,Source
+Argentina,Partial,20.04.20,"3,031",51,49,145,,,,,,Source
+Egypt,No,20.04.20,"3,333",,,250,,,,,,Source
+UAE,No,21.04.20,"7,755",,,46,,,,,,Source
+Serbia,No,21.04.20,"6,890",,,125,,,,,,Source
+Serbia,No,21.04.20,"6,890",,,125,,,,,,Source
+Hungary,No,21.04.20,"2,098",,,213,,,,,,Source
+Moldova,Partial,21.04.20,"2,614",41,59,73,,,,,,Source
+Algeria,Partial,21.04.20,"2,811",58,42,392,,,,,,Source
+Bangladesh,Partial,21.04.20,"3,382",68,32,110,,,,,,Source
+Morocco,No,21.04.20,"3,186",,,144,,,,,,Source
