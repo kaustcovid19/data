@@ -5,19 +5,20 @@ File naming convention:
    <dataset_name>-<YYYYMMDD>.CSV
 
 Field description:
-dateRep	: Last Update DD-MM-YYYY
-day	: DD
-month	: MM
-year	: YYYY
-cases: Number of new cases	
-deaths : Number of deaths	
+dateRep			: Last Update DD-MM-YYYY
+day			: DD
+month			: MM
+year			: YYYY
+cases			: Number of new cases	
+deaths 			: Number of deaths	
 countriesAndTerritories	: Country Name
-geoId	: Country ID
-countryterritoryCode : Country Code	
-popData2018 : Population data as of year 2018
+geoId			: Country ID
+countryterritoryCode 	: Country Code	
+popData2018 		: Population data as of year 2018
+continentExp 		: Continent
 
 Update frequency:
-Daily -The data made public via the downloadable data file is published at 1pm CET
+Daily
 
 Data sources:
 European Centre for Disease Prevention and Control
