@@ -18,7 +18,8 @@ OnVentilatorCurrently	: Number of people currently on ventilator
 OnVentilatorCumulative	: Number of people on ventilator (cumulative)
 Recovered		: Number of people that have recovered
 Deaths			: Number of dead
-
+DataQualityGrade	: Data Quality Grade
+LastUpdateET		: Last Update (ET)
 
 Update frequency:
 Once a day 4pm ET.
