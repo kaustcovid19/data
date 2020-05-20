@@ -1,0 +1,71 @@
+Country,SexDisaggregated,Date,TotalCases,PercentCasesMale,PercentCasesFemale,Deaths,PercentDeathsMale,PercentDeathsFemale,DeathsAmongConfirmedCasesMale,DeathsInConfirmedCasesFemale,DeathsInConfirmedCasesMFRatio,Sources
+Thailand,Yes,16.05.20,"3,025",54,46,56,77,23,2.6%,0.9%,2.8,Source
+Dominican Republic,Yes,17.05.20,"12,725",54,46,434,72,28,4.5%,2.1%,2.2,Source
+Greece,Yes,19.05.20,"2,632",55,45,165,72,28,8.1%,4.0%,2.1,Source
+The Netherlands,Yes,19.05.20,"44,196",37,63,"5,715",55,45,19.5%,9.1%,2.1,Source
+Belgium,Yes,18.05.20,"55,564",37,63,"6,475",51,49,16.0%,9.1%,1.8,Source
+Denmark,Yes,19.05.20,"11,044",42,58,551,57,43,6.7%,3.7%,1.8,Source
+Italy,Yes,14.05.20,"221,895",46,54,"29,692",60,40,17.4%,9.9%,1.8,Source
+Romania,Yes,17.05.20,"16,911",45,55,"1,107",60,40,8.8%,4.8%,1.8,Source
+Spain,Yes,18.05.20,"238,892",43,57,"19,186",57,43,10.6%,6.1%,1.8,Source
+South Africa,Yes,18.05.20,"16,244",42,58,286,56,44,2.3%,1.3%,1.8,Source
+Bosnia and Herzegovina,Yes,13.05.20,994,45,55,37,59,41,5%,3%,1.8,Source
+China,Yes,28.02.20,"55,924",51,49,"2,114",64,36,4.7%,2.8%,1.7,Source
+Sweden,Yes,19.05.20,"30,799",42,58,"3,743",55,45,16.1%,9.3%,1.7,Source
+Peru,Yes,18.05.20,"94,933",60,40,"2,789",71,29,3.5%,2.1%,1.7,Source
+Northern Ireland,Yes,19.05.20,"4,415",39,61,488,52,48,14.7%,8.7%,1.7,Source
+England,Yes,12.05.20,"137,090",46,54,"29,654",59,41,28%,16%,1.7,Source
+Ecuador,Yes,19.05.20,"25,195",56,44,"2,839",66,34,13.4%,8.6%,1.6,Source
+South Korea,Yes,19.05.20,"11,078",41,59,263,52,48,3.0%,1.9%,1.6,Source
+Switzerland,Yes,19.05.20,"30,590",46,54,"1,614",58,42,6.7%,4.1%,1.6,Source
+Mexico,Yes,18.05.20,"51,633",58,42,"5,332",68,32,12.2%,7.8%,1.6,Source
+Scotland,Yes,18.05.20,"14,586",39,61,"3,546",51,49,31.8%,19.6%,1.6,Source
+Ukraine,Yes,28.04.20,"9,410",44,56,239,55,45,3.2%,2.0%,1.6,Source
+Czech Republic,Yes,19.05.20,"8,362",48,52,301,58,42,4.3%,2.9%,1.5,Source
+Philippines,Yes,18.05.20,"12,718",54,46,831,65,35,7.8%,5.1%,1.5,Source
+Argentina,Yes,18.05.20,"8,068",51,49,374,60,40,5.5%,3.8%,1.5,Source
+Austria,Yes,19.05.20,"16,268",49,51,632,57,43,4.5%,3.3%,1.4,Source
+Germany,Yes,18.05.20,"174,697",48,52,"7,935",56,44,5.2%,3.9%,1.4,Source
+Indonesia,Yes,19.05.20,"18,496",56,44,"1,221",64,36,7.5%,5.4%,1.4,Source
+Republic of Ireland,Yes,06.05.20,"22,237",43,57,"1,336",51,49,7.2%,5.1%,1.4,Source
+Australia,Yes,19.05.20,"7,076",51,49,99,57,43,1.6%,1.2%,1.3,Source
+Chile,Yes,07.05.20,"25,952",53,47,294,60,40,1.3%,1.0%,1.3,Source
+Portugal,Yes,17.05.20,"29,209",41,59,"1,231",49,51,4.9%,3.7%,1.3,Source
+Bangladesh,Yes,19.05.20,"25,121",68,32,370,73,27,1.6%,1.2%,1.3,Source
+Luxembourg,Yes,19.05.20,"3,958",51,49,109,55,45,3.0%,2.5%,1.2,Source
+Norway,Yes,18.05.20,"8,257",50,50,233,55,45,3.1%,2.6%,1.2,Source
+Colombia,Yes,18.05.20,"16,295",56,44,592,61,39,3.9%,3.2%,1.2,Source
+Canada,Yes,18.05.20,"38,176",45,55,"2,149",47,53,5.9%,5.4%,1.1,Source
+Iran,Yes,17.03.20,"14,991",57,43,853,59,41,5.9%,5.4%,1.1,Source
+Estonia,Yes,19.05.20,"1,741",45,56,64,47,53,4%,4%,1.1,Source
+Finland,Yes,19.05.20,"6,399",49,51,265,47,53,3.9%,4.3%,0.9,Source
+Pakistan,Yes,20.05.20,"45,898",78,22,985,76,24,2.1%,2.3%,0.9,Source
+Brazil,Partial,26.04.20,,,,"3,611",59,41,,,,Source
+France,Partial,18.05.20,,,,"17,532",59,41,,,,Source
+Israel,Partial,05.05.20,,,,238,52,48,,,,Source
+Japan,Partial,18.05.20,"15,758",55,45,,,,,,,Source
+Malaysia,Partial,18.05.20,,,,113,78,22,,,,Source
+Poland,Partial,19.05.20,,,,946,51,49,,,,Source
+Saudi Arabia,Partial,18.05.20,"57,345",75,25,,,,,,,Source
+USA,Partial,13.05.20,,,,"54,860",55,45,,,,Source
+India,Partial,30.04.20,,,,"1,075",64,36,,,,Source
+Singapore,Partial,05.05.20,"6,530",89,11,,,,,,,Source
+Qatar,Partial,28.04.20,"12,156",91,9,,,,,,,Source
+Panama,Partial,18.05.20,"9,726",58,42,,,,,,,Source
+Serbia,Partial,06.05.20,,,,193,62,38,,,,Source
+Hungary,Partial,20.05.20,,,,472,51,49,,,,Source
+Moldova,Partial,19.05.20,"6,340",41,59,,,,,,,Source
+Algeria,Partial,19.05.20,"7,377",56,44,,,,,,,Source
+Croatia,Partial,19.05.20,"2,229",46,54,,,,,,,Source
+Armenia,Partial,19.05.20,,,,64,59,41,,,,Source
+Iceland,Partial,18.05.20,"1,802",50,50,,,,,,,Source
+Nigeria,Partial,18.05.20,"6,175",69,31,,,,,,,Source
+Azerbaijan,Partial,19.05.20,"3,518",43,57,,,,,,,Source
+Ghana,Partial,20.05.20,"6,096",61,39,,,,,,,Source
+Kazakstan,Partial,20.05.20,"5,845",60,40,,,,,,,Source
+North Macedonia,Partial,12.05.20,"1,674",52,48,,,,,,,Source
+New Zealand,Partial,19.05.20,"1,502",44,56,,,,,,,Source
+Honduras,Partial,18.05.20,"2,798",59,41,,,,,,,Source
+Senegal,Partial,20.05.20,736,52,48,,,,,,,Source
+Bulgaria,Partial,12.05.20,"2,023",48,52,,,,,,,Source
+Wales,Partial,18.05.20,"12,570",36,64,,,,,,,Source
