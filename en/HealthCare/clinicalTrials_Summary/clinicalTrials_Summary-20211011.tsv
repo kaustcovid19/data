@@ -1,0 +1,1250 @@
+#1.Counts	ClinicalTrial_Status	ClinicalTrial_Results
+729	Recruiting	No Results Available
+368	Completed	No Results Available
+279	Not yet recruiting	No Results Available
+171	Active, not recruiting	No Results Available
+107	Withdrawn	No Results Available
+98	Terminated	No Results Available
+58	Completed	Has Results
+21	Enrolling by invitation	No Results Available
+18	Suspended	No Results Available
+9	Terminated	Has Results
+7	Available	No Results Available
+6	No longer available	No Results Available
+2	Temporarily not available	No Results Available
+2	Active, not recruiting	Has Results
+1	Approved for marketing	No Results Available
+-e 
+#2.Counts	ClinicalTrial Start Date
+841	April  2020
+644	May  2020
+504	June  2020
+450	March  2020
+378	July  2020
+305	September  2020
+271	October  2020
+267	December  2020
+256	August  2020
+246	November  2020
+101	February  2020
+57	January  2020
+26	July 2020
+25	May 2020
+24	June 2020
+20	September 2020
+20	April 2020
+16	November 2020
+16	August 2020
+12	October 2020
+12	December 2020
+2	March 2020
+2	February 2020
+1	January 2020
+-e 
+#3.Counts	ClinicalTrial End Date
+307	December  2020
+169	July  2020
+168	June  2020
+155	October  2020
+155	May  2020
+150	September  2020
+141	August  2020
+137	November  2020
+84	April  2020
+48	December 2020
+20	August 2020
+19	September 2020
+19	November 2020
+17	March  2020
+16	October 2020
+14	July 2020
+9	June 2020
+8	May 2020
+6	February  2020
+2	April 2020
+1	March 2020
+-e 
+4.Counts	Drugs in clinical trials
+74	Hydroxychloroquine
+32	Ivermectin
+29	Remdesivir
+27	Tocilizumab
+26	Favipiravir
+14	Nitazoxanide
+14	Colchicine
+13	Placebo
+13	Enoxaparin
+13	Dexamethasone
+9	Hydroxychloroquine Sulfate
+9	Baricitinib
+9	Anakinra
+8	Ruxolitinib
+8	Methylprednisolone
+8	Camostat Mesilate
+6	Niclosamide
+6	Nafamostat Mesilate
+6	Losartan
+6	Hydroxychloroquine (HCQ)
+6	Cholecalciferol
+6	Azithromycin
+5	Vitamin C
+5	Sarilumab
+5	Sargramostim
+5	Prednisone
+5	Convalescent Plasma
+5	Clazakizumab
+4	Vitamin D
+4	Tofacitinib
+4	Proxalutamide
+4	PF-07321332
+4	Opaganib
+4	Nitric Oxide
+4	Mavrilimumab
+4	LY3819253
+4	Lopinavir/ritonavir
+4	Ivermectin Tablets
+4	hydroxychloroquine
+4	Heparin
+4	HCQ
+4	DWRX2003
+4	DAS181
+4	Colchicine Tablets
+4	Chloroquine
+4	Camostat
+3	Suspension of heat killed (autoclaved) Mycobacterium w
+3	Standard of care
+3	Sirolimus
+3	Rivaroxaban
+3	REGN10933+REGN10987 combination therapy
+3	Quercetin
+3	Povidone-Iodine
+3	Placebos
+3	Pirfenidone
+3	Peginterferon Lambda-1A
+3	Nitric Oxide Gas
+3	Niclosamide Oral Tablet
+3	N-acetylcysteine
+3	Molnupiravir
+3	Melatonin
+3	Interleukin-7
+3	Interferon beta-1b
+3	Infliximab
+3	hzVSF-v13
+3	Fluvoxamine
+3	Famotidine
+3	EIDD-2801
+3	Cyclosporine
+3	COVID-19 vaccine
+3	Colchicine 0.5 MG
+3	Chloroquine phosphate
+3	Cannabidiol
+3	BRII-196 and BRII-198
+3	BCG Vaccine
+3	AZD7442
+3	AT-527
+3	Apixaban 2.5 MG
+3	Acalabrutinib
+2	XC221
+2	XAV-19
+2	TXA127
+2	Tranexamic acid
+2	Tofacitinib 10 mg
+2	Tocilizumab (TCZ)
+2	Tocilizumab Injection
+2	Thymalfasin
+2	TD-0903
+2	Sodium bicarbonate
+2	SNG001
+2	Silymarin
+2	Silmitasertib
+2	Sevoflurane
+2	Selinexor
+2	SCTA01
+2	Ruxolitinib Oral Tablet
+2	Ruconest
+2	RTB101
+2	Resveratrol
+2	RESP301, a Nitric Oxide generating solution
+2	RESP301
+2	Reparixin
+2	REGN10933+REGN10987
+2	Recommended treatment schedule
+2	Ravulizumab
+2	Pulmozyme
+2	PUL-042 Inhalation Solution
+2	Plasma
+2	placebo
+2	PF-07321332/ritonavir
+2	PF-07304814
+2	PF-06650833
+2	Oxygen
+2	Oseltamivir
+2	Ofatumumab
+2	Nigella
+2	Naltrexone
+2	MRNA-1273
+2	Montelukast
+2	Methylene Blue
+2	Metformin
+2	Lidocaine
+2	Leronlimab
+2	L-ascorbic acid
+2	IVIG
+2	Ivermectin Pill
+2	Ivermectin Oral Product
+2	Ivermectin and Doxycycline
+2	Interferon beta-1a
+2	INO-4800
+2	Injection
+2	IMU-838
+2	Imatinib Mesylate
+2	Icosapent ethyl
+2	Ibrutinib
+2	Hyperbaric oxygen
+2	Hydroxychloroquine Sulfate Tablets
+2	Hydroxychloroquine Sulfate Regular dose
+2	Hydroxychloroquine Sulfate 200 MG [Plaquenil]
+2	Hydroxychloroquine Sulfate 200 MG
+2	Hydroxychloroquine and Azithromycin
+2	Hydroxychloroquine 200 Mg Oral Tablet
+2	Honey
+2	Heparin sodium
+2	GX-I7
+2	GX-19N
+2	Guduchi Ghan Vati
+2	Gam-COVID-Vac / Gam-COVID-Vac
+2	Fluoxetine
+2	Fisetin
+2	EXO 1 inhalation
+2	ensovibep
+2	EDP1815
+2	Eculizumab
+2	EC-18
+2	Ebselen
+2	Early-Dexamethasone
+2	DWJ1248
+2	Duvelisib
+2	Doxycycline
+2	Dornase Alfa Inhalation Solution [Pulmozyme]
+2	Disulfiram
+2	Dexamethasone injection
+2	Defibrotide
+2	CYT107
+2	Cyproheptadine Hydrochloride 4 MG
+2	Crizanlizumab
+2	Convalescent Plasma Transfusion
+2	Convalescent plasma
+2	Clevudine
+2	Carrimycin
+2	Canakinumab
+2	Camostat Mesylate
+2	C21
+2	Brequinar
+2	Bicalutamide 150 Mg Oral Tablet
+2	BI 767551 intravenous
+2	Bevacizumab Injection
+2	Bevacizumab
+2	Bamlanivimab
+2	AZVUDINE
+2	Atorvastatin
+2	Ascorbic Acid
+2	Antithrombin III
+2	Angiotensin converting enzyme inhibitor
+2	Angiotensin-(1-7)
+2	Angiotensin 1-7
+2	Amantadine
+2	ADG20
+2	ACE inhibitor
+2	Acebilustat
+2	Abidol hydrochloride
+2	50 mg/mL Virazole
+1	ZYIL1 capsule
+1	ZYESAMI™ (aviptadil acetate)
+1	ZYESAMI (aviptadil acetate)
+1	Zotatifin
+1	ZofinTM
+1	Zilucoplan®
+1	Zavegepant (BHV-3500)
+1	Zanubrutinib
+1	Yu-Ping-Feng formula
+1	Yinhu Qingwen Granula
+1	YinHu QingWen Decoction
+1	Xylocaine
+1	XVR011
+1	Xuanfei Baidu Granules
+1	Xlear Nasal Spray
+1	Xiyanping injection
+1	XCEL-UMC-BETA
+1	XC7 100 mg single
+1	without colchicine
+1	Wharton's jelly derived Mesenchymal stem cells.
+1	Weight-based dexamethasone dose
+1	VXA-CoV2-1.1-S
+1	Vortioxetine
+1	Voclosporin
+1	Vit-D 0.2 MG/ML Oral Solution [Calcidol]
+1	Vit D
+1	Vitamin D3 50,000 IU
+1	Vitamin C 500 MG Oral Tablet
+1	Vitamin A
+1	virgin coconut oil (VCO)
+1	Virgin Coconut Oil
+1	VIB7734
+1	VERU-111
+1	Veru-111
+1	VentaProst (inhaled epoprostenol delivered via a dedicated delivery system)
+1	VC
+1	VB-201 + Standard of care
+1	Varespladib
+1	Valsartan (Diovan)
+1	Valproate
+1	vadadustat
+1	Vaccination
+1	USB002
+1	Uproleselan
+1	UNIKINON (Chloroquine phosphate) 200mg tablets
+1	UNI911 inhalation 1% and intranasal spray 1%
+1	Unfractionated Heparin IV
+1	Unfractionated heparin
+1	unfractionated Heparin
+1	unfractionated heparin
+1	Umifenovir
+1	Ulinastatin
+1	UI030
+1	Trimodulin
+1	Trimetazidine
+1	TriCor® 145mg tablets
+1	Triazavirin (Riamilovir)
+1	Treatment with Dexmedetomidine
+1	Treatment and prophylaxis
+1	Treamid
+1	Trauma
+1	Trans Sodium Crocetinate
+1	Transfusion of SARS-CoV-2 Convalescent Plasma.
+1	Transfusion of COVID-19 convalescent plasma
+1	Transdermal estradiol gel
+1	Tranexamic acid tablets
+1	Tramadol
+1	Traditional Chinese Medicine Prescription
+1	Traditional antirheumatic drugs
+1	Tradipitant
+1	TQ Formula/Tab
+1	tPA
+1	Toremifene
+1	topical steroids and cyclosporin-A
+1	Tocilizumab 20 MG/ML Intravenous Solution [ACTEMRA]_#1
+1	Tocilizumab 20 MG/ML Intravenous Solution [ACTEMRA]
+1	Tocilizumab 200 Mg/10 mL (20 Mg/mL) INTRAVEN VIAL (ML)
+1	Tocilizumab 180 MG/ML
+1	Tociliziumab group
+1	Tociliuzumab
+1	to be given as a treatment
+1	TNKase
+1	TM5614
+1	TLC19
+1	TL-895
+1	TJ003234
+1	Tissue plasminogen activator
+1	Tirofiban Injection
+1	Tinzaparin, Low dose prophylactic anticoagulation
+1	Tinzaparin
+1	tinzaparin
+1	Thiazide-like diuretics
+1	theraputic heparin
+1	Therapeutic Anticoagulation
+1	Therapeutic anticoagulation
+1	The POP02 study is collecting bodily fluid samples (i.e., whole blood, effluent samples) of children prescribed the following drugs of interest per standard of care:
+1	Theophylline Powder
+1	thalidomide
+1	Tetrandrine
+1	Tetracycline hydrochloride 3%
+1	Test: Favipiravir 200 mg (LOQULAR)
+1	Tenofovir/ Emtricitabine ( 300 mg / 200 mg daily during 60 days) + Personal Protective Equipment (PPE)
+1	tenofovir disoproxil and emtricitabine
+1	Tenecteplase
+1	Tempol
+1	Telmisartan Oral Product
+1	Telmisartan arm will receive 80 mg Telmisartan twice daily plus standard care.
+1	Telmisartan 40mg
+1	Telmisartan
+1	Telacebec
+1	TCM prescriptions
+1	TCB008
+1	TB006
+1	Tazemetostat
+1	TAK-671
+1	Tafenoquine Oral Tablet
+1	Tadalafil Pill
+1	Tacrolimus
+1	T89 capsule
+1	T89
+1	Symptomatic drugs
+1	Surfactant
+1	supplementation
+1	Sulodexide
+1	Sulfur hexafluoride lipid-type A microspheres
+1	Sublingual Micro-Dose Ketamine
+1	Sublingual Methylene blue
+1	Subcutaneous Administration (PH FDC SC)
+1	STRI Formula
+1	STI-5656
+1	Stem Cell Product
+1	STC3141
+1	standard treatment COVID-19 + Triazavirin
+1	Standard Treatment
+1	Standard Therapy Protocol (STP)
+1	Standard of Care (SOC) + ANG-3777
+1	Standard of Care (SOC) and Colchicine+Rosuvastatin
+1	Standardized Brazilian Green Propolis Extract
+1	Standard COVID-19 care
+1	Stabilized hypochlorous acid
+1	Spironolactone + Dexamethasone
+1	Spironolactone 100mg
+1	Sofosbuvir plus Ledipasvir
+1	Sofosbuvir and Ledipasvir
+1	Sofosbuvir 400 MG plus Daclatasvir 200mg
+1	Sofosbuvir 400 MG/ Daclatasvir 60mg
+1	Sofosbuvir
+1	sofosbuvir
+1	sodium pyruvate nasal spray
+1	Sodium Pyruvate
+1	Sodium Nitrite
+1	Sodium Bicarbonate Solution
+1	Sodium Bicarbonate 150Meq/L/D5W Inj
+1	Sodium Bicarbonate
+1	SOC + Intravenous Famotidine
+1	SOC + IFX-1
+1	SnPP Protoporphyrin plus Sunlight exposure
+1	SNO
+1	SNDX-6352
+1	SMOFlipid
+1	SLV213
+1	Sitagliptin
+1	Sirukumab
+1	Sirolimus 1 MG/ML
+1	SIR1-365
+1	Single high dose vitamin D
+1	Siltuximab
+1	Sildenafil citrate tablets
+1	Sildenafil
+1	Shen Cao Gan Jiang Tang (Gan Cao Gan Jiang Tang with Ginseng)
+1	Senicapoc
+1	semaglutide
+1	Selenium (as Selenious Acid)
+1	SARS-CoV-2 vaccine
+1	SARS-CoV-2 plasma
+1	SARS-COV-2 mRNA Vaccine
+1	SARS-CoV-2 convalescent plasma
+1	Sarilumab SAR153191
+1	Sarilumab Prefilled Syringe
+1	Sarilumab 200 MG/1.14 ML Subcutaneous Solution [KEVZARA]
+1	SAR443122
+1	Saline oral/nasal rinse
+1	Sacubitril / Valsartan Oral Tablet [Entresto]
+1	S-1226 (8%)
+1	S-1226
+1	Ruxolitinib plus simvastatin
+1	Ruxolitinib administration
+1	(ruxolitinib)
+1	(rt-PA) - Cohort 1
+1	RSLV-132
+1	RP7214 + Standard of care (SOC)
+1	RoActemra iv
+1	RO7496998
+1	rNAPc2
+1	RLS-0071
+1	Rivaroxaban 10 MG
+1	Rivaroxaban 10 mg
+1	Ribavirin Capsules
+1	rhDNase I
+1	RhACE2 APN01
+1	Retrospective case-control analysis
+1	Renin-angiotensin system inhibitors
+1	Remimazolam
+1	Remestemcel-L
+1	Remdesivir (RDV)
+1	Remdesivir-HU
+1	Rejuveinix (RJX) Active Comparator
+1	REGN10933 + REGN10987
+1	Regadenoson
+1	Reduction in antimetabolite immunosuppression
+1	Recombinant human plasma gelsolin (Rhu-pGSN)
+1	Recombinant human interferon α1β
+1	recombinant human interferon Alpha-1b
+1	recombinant human annexin A5
+1	Recombinant human angiotensin-converting enzyme 2 (rhACE2)
+1	Recombinant cytokine gene derived protein injection
+1	Recombinant Bacterial ACE2 receptors -like enzyme of B38-CAP (rbACE2)
+1	RDV
+1	RBT-9 (90 mg)
+1	Razuprotafib Subcutaneous Solution
+1	Rayaldee 30Mcg Extended-Release (ER) Capsule
+1	Rapamycin
+1	Ramipril 2.5 MG Oral Capsule
+1	Ramelteon 8mg
+1	Pyronaridine-Artesunate
+1	Pyridostigmine Bromide
+1	Pulmozyme/ Recombinant human deoxyribonuclease (rh-DNase)
+1	PTC299
+1	Proxalutamide (GT0918)
+1	Propranolol Hydrochloride
+1	prophylactic lactoferrin daily
+1	Progesterone 100 MG
+1	Previfenon®
+1	Prednisolone 5 mg
+1	Prazosin
+1	Prasugrel Hydrochloride 10 MG Oral Tablet
+1	Povidone-Iodine Solution 1.25% w/w [0.125% available iodine] USP
+1	Povidone-Iodine Nasal Spray and Gargle
+1	Povidone-Iodine 2%
+1	Povidone-Iodine 0.4% NI
+1	Povidone-iodine
+1	Povidine iodine nasal swabs
+1	Potassium Canrenoate
+1	Posaconazole
+1	poractant alfa
+1	Polyoxidonium
+1	PLN-74809
+1	Plitidepsin 1.5 mg/day
+1	Plitidepsin
+1	Plasma from COVID-19 convalescent patient
+1	Plaquenil 200Mg Tablet
+1	Placebo Administration
+1	Placebo administration
+1	PJS-539 Dose 1
+1	Pitavastatin
+1	pirfenidone
+1	Pioglitazone 45 mg
+1	Pioglitazone 30 mg
+1	Pioglitazone
+1	Piclidenoson
+1	PHR160 Spray
+1	Pfizer/BioNTech BNT162b2 mRNA COVID-19 vaccine
+1	Pentoxifylline
+1	Pentarlandir™ UPPTA
+1	Pemziviptadil (PB1046)
+1	Pegylated Interferon-α2b
+1	Pegylated interferon lambda
+1	Peginterferon lambda alfa-1a subcutaneous injection
+1	Peginterferon Lambda-1a
+1	PD-1 blocking antibody+standard treatment
+1	PD-1 and ACE2 Knockout T Cells
+1	PBI-0451 Dose 1
+1	Patients with the treatment agains COVID19
+1	Patch, Nicotine
+1	Part A: Upamostat 200 mg
+1	Pamrevlumab
+1	Pacritinib
+1	P2Et (Caesalpinia spinosa extract)
+1	Ozanimod
+1	Oxytocin
+1	OT-101
+1	ORTD-1 low dose
+1	Orally Suspension of CoV2-OGEN1
+1	oral co-trimoxazole
+1	Oral-B Mouth Sore mouthwash
+1	Oral Antibiotic, Antihistamine, Anti-inflammatory, Multivitamins
+1	Oral 25-Hydroxyvitamin D3
+1	Oral 13 cis retinoic acid
+1	Oral
+1	OPN-019
+1	Ophtamesone
+1	open label BSS (pepto Bismol)
+1	OP-101
+1	Omegaven®
+1	Omega 3/Nigella Sativa Oil
+1	Omega-3 Fatty Acid Supplement
+1	Omega 3 fatty acid
+1	Olokizumab 64 mg
+1	OCTAPLAS
+1	Octagam
+1	observational
+1	Nuvastatic
+1	NuSepin® 0.1 mg
+1	NTR-441
+1	NT-I7
+1	NP-120 (Ifenprodil)
+1	NOX66
+1	NORS (Nitric Oxide Releasing Solution)
+1	Normal Saline intranasal and placebo inhaler
+1	NO-Immunosuppressive
+1	NK-1R antagonist
+1	Nivolumab Injection
+1	NIVOLUMAB
+1	Nivolumab
+1	Nitroglycerin
+1	Nitric Oxide-Sessions
+1	Nitric Oxide-Releasing Drug
+1	Nitric Oxide lozenges, 30 mg
+1	Nitazoxanide Tablets
+1	Nitazoxanide and Ciclésonide
+1	Nitazoxanide and atazanavir/ritonavir
+1	Nitazoxanide 500Mg Oral Tablet
+1	Nitazoxanide 500 MG
+1	Nintedanib 150 MG [Ofev]
+1	Nintedanib 150 MG
+1	Nintedanib
+1	Nicotine patch
+1	Nicotine 7 mg/ 24h Transdermal Patch - 24 Hour
+1	nicotinamide
+1	Niclosamide suspension
+1	Niclosamide + Camostat
+1	Niagen
+1	Nebulized Furosemide
+1	Nebulised unfractionated heparin (UFH)
+1	Nebulised heparin
+1	NBT-NM108
+1	Nasal Spray
+1	NASAFYTOL®
+1	nangibotide
+1	Naltrexone Hydrochloride
+1	Nafamostat Mesylate
+1	N-Acetyl cysteine
+1	NA-831 - 0.10 mg/kg
+1	NA-831
+1	muscle relaxation
+1	MSTT1041A
+1	MSC-exosomes delivered intravenously every other day on an escalating dose: (2:4:8)
+1	MRx-4DP0004
+1	MRG-001
+1	mQFPD
+1	MPT0B640
+1	MP1032
+1	Mouthwash Product
+1	Montelukast Oral Tablet
+1	Montelukast 10mg
+1	Monoclonal antibody
+1	mometasone furoate nasal spray
+1	Molixan
+1	Molgramostim nebuliser solution
+1	Modafinil
+1	M-M-R II ® vaccine
+1	MK-5475
+1	Mixture 3,6% H2 in N2 (96.4%)
+1	Midazolam
+1	MIB-626
+1	methylprednisolone therapy
+1	Methylprednisolone Tablet
+1	Methylprednisolone Sodium Succinate
+1	Methylprednisolone sodium succinate
+1	Methylprednisolone, Placebo
+1	Methylprednisolone Injectable Product
+1	MethylPREDNISolone 80 Mg/mL Injectable Suspension
+1	methylprednisolone
+1	Methylene Blue and Photodynamic Therapy
+1	Methotrexate-LDE phase 1
+1	Methotrexate
+1	Metformin Glycinate
+1	metformin glycinate
+1	metenkefalin + tridecactide
+1	Mesenchymal Stromal Stem Cells - KI-MSC-PL-205
+1	Mesenchymal stem cells
+1	Merimepodib
+1	Melphalan
+1	Melatonin intravenous
+1	Melatonin 2mg
+1	Mefloquine as a prophylaxis against SARS-Cov-2 infection in household contacts of COVID 19 confirmed cases
+1	Mefloquine
+1	Medium dose prednisolone
+1	Measles-Mumps-Rubella Vaccine
+1	MCN (Methylene blue, vitamin C, N-acetyl cysteine)
+1	mavrilimumab
+1	Masitinib Mesylate
+1	Masitinib
+1	MAS825
+1	Maraviroc experimental group
+1	Maraviroc + Currently used therapy
+1	Maraviroc 300 mg
+1	Maraviroc
+1	MANAGEMENT OF COVID-19
+1	Magnesium Citrate plus probiotic
+1	MAD0004J08
+1	M5049
+1	LYT-100
+1	LY-CovMab
+1	LY3127804
+1	Lucinactant
+1	LTX-109 gel, 3%
+1	LSALT peptide
+1	low molecular weight Heparin as standard of care treatment
+1	Low Molecular Weight Heparin
+1	low-molecular-weight heparin
+1	Low-dose acetylsalicylic acid
+1	Lovenox 40 MG in 0.4 mL Prefilled Syringe
+1	Losmapimod oral tablet
+1	Losartan 50 mg and Spironolactone 25 mg pillules oral use
+1	Loratadine
+1	Lopinavir / ritonavir tablets combined with Xiyanping injection
+1	Lopinavir-Ritonavir Drug Combination
+1	Lopinavir/Ritonavir 400 mg/100 mg
+1	Lopinavir/Ritonavir 200 MG-50 MG Oral Tablet
+1	Lopinavir/Ritonavir 200 mg/50 mg Film Tablet
+1	Lopinavir/Ritonavir
+1	Lopinavir-Ritonavir
+1	Lopinavir and Ritonavir Tablets
+1	LNP-nCOV saRNA-02 Vaccine
+1	LMWH
+1	liposomal lactoferrin
+1	Linagliptin tablet
+1	Linagliptin 5 MG
+1	Linagliptin
+1	Lidocaine 2%
+1	Lianhua Qingwen
+1	LH Suppression
+1	Levilimab
+1	Levamisole Pill + Budesonide+Formoterol inhaler
+1	Levamisole and isoprinosine
+1	Levamisole
+1	Lenalidomide as a 5 mg capsule PO daily, days 1, 3, and 5.
+1	Leflunomide
+1	leflunomide
+1	LEAF-4L6715
+1	L-Citrulline
+1	LB1148
+1	LAU-7b
+1	Larazotide Acetate
+1	Lanadelumab
+1	Lambda 180 mcg S.C
+1	Lactoferrin
+1	Ketotifen/Indomethacin
+1	Ketotifen 1 MG
+1	Kan Jang capsules
+1	K-237 0.3-0.4mg/kg (once daily)
+1	Jing-Si-Herbal-Tea
+1	iv Tocillizumab (TCZ)
+1	Ivermectin,ribavirin ,nitazoxanide and zinc
+1	Ivermectin Powder
+1	ivermectin nasal spray
+1	Ivermectin nasal
+1	Ivermectin (IVM)
+1	IVERMECTIN (IVER P®) arm will receive IVM 600 µg / kg once daily plus standard care. CONTROL arm will receive standard care.
+1	Ivermectin / Iota-Carrageenan
+1	Ivermectin Injectable Solution
+1	Ivermectin + Doxycycline + Placebo
+1	Ivermectin + Doxycycline
+1	Ivermectin and Doxycyline
+1	Ivermectin 6 MG Oral Tablet (2 tablets)
+1	Ivermectin 6 Mg Oral Tablet
+1	Ivermectin 5 MG/ML oral solution, Aspirin 250 mg tablets
+1	Ivermectin 3 MG
+1	Ivermectin 0.6mg/kg/day
+1	ivermectin
+1	IV Dexamethasone
+1	Itolizumab IV infusion
+1	Isotretinoin plus Tamoxifen
+1	Isotretinoin Only Product in Oral Dose Form
+1	Isotretinoin(Aerosolized 13 cis retinoic acid) plus Aerosolized Itraconazole
+1	Isoquercetin (IQC-950AN)
+1	Isoflurane Inhalant Product
+1	ISIS 721744
+1	Isavuconazonium Injection [Cresemba]
+1	IRL201104
+1	Iota-Carrageenan
+1	Iodine Complex
+1	intravesical use) BCG LIVE strain of the BCG (Merck) vaccine
+1	Intravenous sedation
+1	Intravenous Immunoglobulin
+1	intranasal ivermectin spray
+1	Intranasal heparin sodium (porcine)
+1	Intramuscular injection
+1	Intermediate dose thromboprophylaxis
+1	intermediate dose Enoxaparin/ unfractionated heparin
+1	Interleukin 6 (IL6) Antagonist
+1	Interferon-ß-1a
+1	Interferon gamma human recombinant (IFN-G)
+1	Interferon Beta-1B
+1	Interferon Beta-1A
+1	Interferon-Alpha2B
+1	Interferon alfa
+1	Instilled T3
+1	iNO (inhaled nitric oxide) delivered via the INOpulse Delivery System
+1	INM005
+1	injection
+1	inhaled type I interferon
+1	Inhaled nitric oxide (iNO)
+1	Inhaled nitric oxide gas
+1	Inhaled Low molecular weight heparin
+1	Inhaled ILOPROST
+1	Inhaled Hypertonic ibuprofen
+1	inhaled hydroxychloroquine
+1	Inhaled budesonide
+1	inhaled beclametasone
+1	Inhaled Aviptadil
+1	Inhalation
+1	inhalable hydroxychloroquine (HCQ)
+1	INC424 / Ruxolitinib
+1	INB03
+1	Inactivated convalescent plasma
+1	IMUNOR
+1	IMP 1,000 plus SoC
+1	Immunosuppressive Agents
+1	Immunoglobulin of cured patients
+1	Imatinib tablets
+1	Imatinib Mesylate intravenous solution
+1	Imatinib
+1	Iloprost
+1	IIBR-100
+1	IgIV
+1	IFN beta-1a
+1	Icosapent ethyl (IPE)
+1	Ibuprofen
+1	Ibudilast
+1	Hypertonic Saturated Saline Mouth Rinse Active Arm
+1	Hyperpolarized Xe129
+1	Hyperpolarized 129Xenon gas
+1	Hydroxychloroquine with Azithromycin
+1	Hydroxychloroquine tablets
+1	hydroxychloroquine tablet
+1	Hydroxychloroquine Sulfate (HCQ)
+1	Hydroxychloroquine sulfate &Azithromycin
+1	Hydroxychloroquine Sulfate 400 mg twice a day
+1	Hydroxychloroquine Sulfate 200 milligram (mg) Tab
+1	hydroxychloroquine sulfate 200 MG
+1	Hydroxychloroquine , Sofosbuvir, daclatasvir
+1	Hydroxychloroquine SAR321068
+1	Hydroxychloroquine Pre-Exposure Prophylaxis
+1	Hydroxychloroquine plus standard preventive measures
+1	Hydroxychloroquine + placebo
+1	Hydroxychloroquine Pill + Azithromycin Pill
+1	Hydroxychloroquine Pill
+1	Hydroxychloroquine Oral Product
+1	Hydroxychloroquine Only Product in Oral Dose Form
+1	hydroxychloroquine in combination with camostat mesylate
+1	Hydroxychloroquine - Daily Dosing
+1	Hydroxychloroquine - Daily dosing
+1	Hydroxychloroquine, Azithromycin
+1	Hydroxychloroquine + azithromycin
+1	Hydroxychloroquine as post exposure prophylaxis
+1	Hydroxychloroquine and azithromycin treatment arm.
+1	Hydroxychloroquine and azithromycin treatment
+1	Hydrocortisone
+1	Human immunoglobulin
+1	Human fecal microbiota, MBiotix HBI
+1	Human Ezrin Peptide 1 (HEP1)
+1	Human
+1	Huaier Granule
+1	HMW-HA
+1	HLX71
+1	HLX70
+1	History of exposure to anti-CD20 treatment since 01/01/2010
+1	High-Titer Anti-SARS-CoV-2 (COVID 19) Convalescent Plasma
+1	High doses of intravenous vitamin C
+1	high dose LMWH)
+1	High dose Interferon-beta 1a
+1	High-Dose Dexamethasone
+1	Hidroxicloroquina
+1	HFB30132A
+1	Hesperidin and Diosmin mixture
+1	Hesperidin
+1	HCQ & AZ vs HCQ+SIR
+1	HCQ & AZ
+1	HCQ01
+1	HC-1119
+1	GX-19
+1	GX-03
+1	GT0918
+1	GSE and Xylitol
+1	GS-441524
+1	Growth Hormone
+1	Group A HCQ
+1	Group 1: Rivaroxaban 20mg/d followed by enoxaparin/unfractionated heparin when needed
+1	(GNS651)
+1	GNS561
+1	GLS-1200
+1	GLS-1027
+1	glenzocimab
+1	Gimsilumab
+1	GIGA-2050
+1	GC4419
+1	Gargle/Mouthwash
+1	Ganovo+ritonavir+/-Interferon nebulization
+1	Gam-COVID-Vac (rAd26) / Gam-COVID-Vac (rAd5)
+1	Galidesivir
+1	FX06
+1	Fuzheng Huayu Tablet
+1	Fuzheng Huayu tablet
+1	Full spectrum cannabidiol dominant medicinal cannabis
+1	FT516
+1	FSD201
+1	FP-025 100 mg
+1	FOY-305
+1	FoTv
+1	Fostamatinib
+1	fosmanogepix
+1	Foralumab
+1	fondaparinux
+1	FNC+Standard of Care
+1	Fluvoxamine Maleate 100 MG [Luvox]
+1	Fluticasone Propionate
+1	Fixed-duration Hydrocortisone
+1	Firazyr
+1	Fingolimod 0.5 mg
+1	FB2001
+1	favorable outcome
+1	FAVIRA 200 MG Film Tablet
+1	FAVIR 200 MG FT
+1	favipiravir tablets+chloroquine phosphatetablets tablets
+1	Favipiravir + Standard of Care
+1	Favipiravir HU 200 mg hard capsules
+1	Favipiravir Combined With Tocilizumab
+1	Favipiravir (3200 mg + 1200 mg)
+1	favipiravir
+1	FAVICOVIR 200 mg Film Tablet
+1	Famotidine 20 milligram tablet
+1	Famotidine 20 MG
+1	Extract Psidii guava
+1	Experimental Group
+1	Experimental drug
+1	Exosomes overexpressing CD24
+1	exogenous surfactant
+1	EXO-CD24
+1	Exebacase
+1	Evolocumab
+1	Etoposide
+1	Ethanol with Asprin
+1	Estrogen Therapy
+1	Estradiol patch
+1	Estetrol monohydrate 15 mg
+1	Essential amino acids
+1	Escin
+1	Ergoferon
+1	Erenumab
+1	Equinacea Arkopharma
+1	EP-7041 Injection
+1	Enzalutamide Pill
+1	Enzalutamide
+1	Ensovibep
+1	Ensifentrine Dose 1
+1	Enoxaparin sodium
+1	Enoxaparin Prophylactic Dose
+1	Enoxaparin Prefilled Syringe [Lovenox]
+1	Enoxaparin Higher Dose
+1	Enoxaparin 40Mg/0.4Ml Inj Syringe 0.4Ml
+1	Enoxaparin 40 Mg/0.4 mL Injectable Solution
+1	Enisamium Iodide
+1	Endothelial Protocol
+1	Emtricitabine/Tenofovir Disoproxil Fumarate 200 MG-245 MG Oral Tablet [TRUVADA]
+1	Emtricitabine/tenofovir disoproxil
+1	Emtricitabine/Tenofovir Alafenamide 200 MG-25 MG Oral Tablet
+1	Emtricitabine/tenofovir
+1	Emricasan
+1	Eltrombopag
+1	Eicosapentaenoic acid gastro-resistant capsules
+1	EG-009A
+1	Effects in oxygenation and hypoxic pulmonary vasoconstriction
+1	Efesovir
+1	Edoxaban Tablets
+1	Echinaforce Forte tablets
+1	Echinaforce Chewable tablets
+1	DWJ1248 with Remdesivir
+1	Dutasteride 0.5 mg
+1	DUR-928
+1	Drug Isotretinoin (13 cis retinoic acid ) capsules+standard treatment
+1	Drug, inhalation
+1	Drug COVID19-0001-USR
+1	Doxycycline Tablets
+1	Doxycyclin
+1	Double-Blind NT-I7
+1	Dornase Alfa Inhalation Solution
+1	Dornase Alfa
+1	Dociparstat sodium
+1	Distilled Water
+1	Disease-modifying antirheumatic drugs (DMARDs)
+1	Dipyridamole ER 200mg/ Aspirin 25mg orally/enterally AND Standard of care
+1	Dipyridamole 100 Milligram(mg)
+1	Dipyridamole
+1	Dietary Supplement containing resistant starch
+1	Dialyzable Leukocyte Extract
+1	DFV890
+1	Dexmedetomidine Injectable Product
+1	Dexamethasone Oral
+1	Dexamethasone high dose
+1	Dexamethasone and Hydroxychloroquine
+1	Dexamethasone 2 MG/ML
+1	DEXAMETHASONE
+1	Desidustat
+1	Desferal 500 MG Injection
+1	DeltaRex-G
+1	Degarelix
+1	Defibrotide Injection
+1	Deferoxamine
+1	Decitabine
+1	Dasatinib Anhydrous
+1	Darunavir/Cobicistat
+1	Darunavir and Cobicistat
+1	Dapsone 85 mg PO BID
+1	Dapsone 100 MG
+1	dapansutrile capsules
+1	Dapagliflozin 10 MG
+1	Danoprevir+Ritonavir
+1	Danicopan
+1	Dalteparin
+1	dalteparin
+1	Dalcetrapib
+1	Daily Vitamin D3
+1	Dabigatran
+1	DAAD Compound
+1	Cytotoxic T Lymphocytes
+1	Cyproheptadine
+1	cyclosporine
+1	Cyclosporin A
+1	CUROSURF® (poractant alfa)
+1	CT-P63
+1	CT-P59
+1	CST-2: EIDD-2801
+1	CPI-006 2 mg/kg + SOC
+1	CPI-006
+1	COVI-MSC
+1	COVID Rehab Formula granules
+1	Covidir injections
+1	COVID-globulin
+1	covid19 vaccine
+1	COVID-19 treatment
+1	COVID-19 group (Group I)
+1	Covid-19 group
+1	COVID-19 Convalscent Plasma
+1	COVID-19 as per the hospital guidelines
+1	COVID-19
+1	CovenD24
+1	Co-trimoxazole
+1	CORVax
+1	Corticosteroids and Derivatives
+1	Corsodyl® Alcohol free -0.2 % Chlorhexidine digluconate
+1	Coromec Registry with ECL-19
+1	COR-101
+1	Conventional medicines (Oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and Traditional Chinese Medicines (TCMs) granules
+1	Convalesscent Plasma
+1	Control group (standard hospital treatment)
+1	Conestat alfa
+1	COMIRNATY
+1	Combination Product: JS016 (anti-SARS-CoV-2 monoclonal antibody)
+1	Colloidal Silver
+1	Collagen-Polyvinylpyrrolidone
+1	Colgate Total Clean Mint
+1	Colchicine plus symptomatic treatment (paracetamol)
+1	Colchicine 1 MG Oral Tablet
+1	Colchicine 0.6 mg
+1	Colchcine
+1	Coenzyme Q10
+1	CNM-ZnAg
+1	CM4620-IE (Injectable Emulsion)
+1	Clazakizumab 25 mg
+1	Clarithromycin 500mg
+1	Clarithromycin
+1	CKD-314+SOC
+1	Ciclesonide Metered Dose Inhaler [Alvesco]
+1	Ciclesonide Inhalation Aerosol
+1	Ciclesonide
+1	cholecalciferol 6 lakh IU
+1	cholecalciferol 200,000 IU
+1	CHLORPROMAZINE (CPZ)
+1	Chlorpromazine
+1	Chloroquine Sulfate
+1	Chloroquine Phosphate Tablets
+1	Chloroquine Diphosphate
+1	Chloroquine diphosphate
+1	chloroquine
+1	chlorine dioxide 3000 ppm
+1	Chlorhexidine digluconate, povidone iodine
+1	Chemotherapy
+1	Cetirizine and Famotidine
+1	Cerebrospinal fluid sampling, meningeal and brain parenchyma biopsies
+1	Cerebrolysin
+1	CERC-002
+1	Cenicriviroc (CVC)
+1	Cefditoren pivoxil 400mg
+1	CD24Fc
+1	CBD
+1	casirivimab+imdevimab combination therapy
+1	casirivimab and imdevimab
+1	Carrageenan nasal spray and 1% PVP- mouthwash and gargle
+1	captopril 25mg
+1	Canrenoate Potassium
+1	Cannabis, Medical
+1	Cannabidiol, pharmaceutically produced with < 5 ppm THC
+1	Canakinumab Injection 600mg
+1	Canakinumab 150 MG/ML [Ilaris]
+1	canakinumab
+1	Budesonide Nasal
+1	Budesonide dry powder inhaler
+1	Budesonide
+1	Bucillamine
+1	BTL-TML-COVID
+1	Broncho-Vaxom®
+1	Bromhexine Hydrochloride Tablets
+1	Bromhexine Hydrochloride
+1	Bromhexine and Spironolactone
+1	Brilacidin
+1	BRII-198
+1	BRII-196
+1	Brexanolone
+1	Brensocatib
+1	Brazilian Green Propolis Extract (EPP-AF)
+1	Bovine Lipid Extract Surfactant
+1	bovhyaluronidase azoxymer
+1	Botulinum Neurotoxin
+1	BNO 1030
+1	BMS-986253
+1	Blockers (ARB)
+1	Blockers
+1	blocker
+1	BLD-2660
+1	Bivalirudin Injection
+1	BIO 300 Oral Suspension
+1	BIO101
+1	BI 764198
+1	BGE-175
+1	BGB-DXP593
+1	BGB DXP593
+1	BEVA+SOC
+1	Betadine© bucal 100 mg/ml
+1	Berberine
+1	Bempegaldesleukin
+1	Bemiparin sodium
+1	Bemiparin
+1	Bemcentinib
+1	BDB-001 Injection
+1	BCG-10 vaccine
+1	BAT + Calcifediol
+1	BAT2020
+1	Basiliximab Injection
+1	Baricitinib Oral Tablet [Olumiant]
+1	Baricitinib Oral Tablet
+1	Baricitinib (janus kinase inhibitor)
+1	Baricitinib 4 MG Oral Tablet
+1	Bardoxolone Methyl
+1	bamlanivimab
+1	BAF312
+1	Bacille Calmette-Guérin (BCG)
+1	azoximer bromide
+1	Azithromycin plus hydroxychloroquine
+1	Azithromycin / Ivermectin / Ribaroxaban / Paracetamol
+1	Azithromycin Capsule
+1	Azithromycin 500 milligram (mg) oral Tablet
+1	AZD1656
+1	AZD1222
+1	AVM0703
+1	Aviptadil by intravenous infusion + standard of care
+1	Aviptadil 67μg
+1	AVIGAN
+1	AVICOD 200 MG Film Tablet
+1	AV-001
+1	Auxora
+1	ATYR1923 1 mg/kg
+1	ATR-002
+1	Atovaquone/Azithromycin
+1	Atorvastatin + L-arginine + Folic acid + Nicorandil + Nebivolol
+1	Atorvastatin 80mg
+1	Atorvastatin 40 Mg Oral Tablet
+1	ATI-450
+1	Atazanavir
+1	ATAFENOVIR 200 MG KAPSUL
+1	AT-001
+1	AstroStem-V
+1	Aspirin 81 mg
+1	Aspirin 75mg
+1	Aspirin 100mg
+1	Aspirin
+1	A single "booster" dose of the Moderna mRNA COVID-19 vaccine
+1	Ascorbic acid
+1	ASC09/ritonavir group
+1	ASC09F+Oseltamivir
+1	ASA
+1	ART Therapy
+1	Artemisinin / Artesunate
+1	ArtemiC
+1	Artemether-lumefantrine (AL)
+1	Artecom® (pyronaridine-artesunate)
+1	Arbidol
+1	APX-115
+1	Aprotinin
+1	Aprepitant injectable emulsion
+1	Apo-Hydroxychloroquine
+1	APL-9
+1	Apixaban
+1	Apilimod Dimesylate Capsule
+1	Apabetalone
+1	Any drug used to treat Covid-19
+1	Antroquinonol
+1	Antithrombin + best available treatment
+1	anti-SARS-CoV-2 plasma
+1	Anti-SARS-CoV-2 mAb
+1	anti-SARS-CoV-2 IgY
+1	Anti-SARS-CoV-2 convalescent plasma
+1	Anti-SARS-CoV-2
+1	anti-COVID19 mRNA-based vaccine (BNT162b2, Comirnaty®, commercialized by Pfizer)
+1	AntiCov-220
+1	Antibiotic
+1	Antagonist
+1	Anluohuaxian
+1	Angiotensin II
+1	Angiotensin Converting Enzyme 2
+1	Andrographis Paniculata
+1	Analogs, Prostaglandin E1
+1	Anakinra +/- Ruxolitinib (stages 2b/3)
+1	Anakinra Prefilled Syringe
+1	Anakinra plus oSOC
+1	Anakinra alone (stages 2b/3)
+1	Anakinra 149 MG/ML Prefilled Syringe [Kineret]
+1	Anakinra 100Mg/0.67Ml Inj Syringe
+1	AMY-101
+1	Amoxicillin
+1	AMOR 18 Powder & Inhalation
+1	Amlodipine
+1	Amiodarone
+1	Ambrisentan
+1	Amantadine Hydrochloride
+1	Alvelestat
+1	Alteplase 50 MG [Activase]
+1	Alteplase
+1	alpha one antitrypsin inhalation
+1	Alpha-interferon alpha, abidol, ribavirin, Buzhong Yiqi plus and minus formula, Huhuang Detoxicity Paste, Baimu Qingre Jiedu Paste, fumigation/inhalation of vitamin C
+1	alpha1-proteinase inhibitor
+1	Almitrine
+1	AlloStim
+1	allogeneic mesenchymal stem cell
+1	Allogeneic and expanded adipose tissue-derived mesenchymal stromal cells
+1	ALLOGENEIC AND EXPANDED ADIPOSE TISSUE-DERIVED MESENCHYMAL STEM CELLS
+1	ALLOCETRA-OTS
+1	Allocetra-OTS
+1	Alisporivir
+1	albuterol sulfate (MDI)
+1	AK119
+1	agenT-797
+1	aerosolized DNase
+1	Aerosolized All trans retinoic acid
+1	Aerosolized 13 cis retinoic acid
+1	Aerolized Hydroxychloroquine Sulfate
+1	ADX-629
+1	a duration of seven days :
+1	ADM03820
+1	Adjuvanted SARS-CoV-2 Subunit vaccine (aCoV2)
+1	Adenosine
+1	Adalimumab
+1	Acetylsalicylic acid
+1	acetylsalicylic acid
+1	ACEIs
+1	ACE Inhibitors and Calcium Channel Blockers
+1	ACEI/ARB
+1	Acalabrutinib Treatment A
+1	ABX464
+1	Abivertinib
+1	ABBV-47D11
+1	Abatacept
+1	AAT( Alpha 1 Antitrypsin)
+1	5 days
+1	3-dayIVM 200 mcg/kg/day/14-day 75mgASA/day + standard of care (intervention 1)
+1	2: Usual practice + SYMBICORT RAPIHALER
+1	1: Naproxen
+1	1: ILT101
+1	1: discontinuation of RAS blocker therapy
+1	18F-αvβ6-BP
+1	[18F]FP-R01-MG-F2
+1	[18F]F-AraG (2'-deoxy-2'-fluoro-9-β-D-arabinofuranosylguanine)
+1	1.5% w/v Hydrogen Peroxide
+1	15 days
+1	14 days
+1	129Xenon gas
+1	10% Povidone-iodine nasal decolonization swab plus 0.12% CHG oral rinse
+1	0.6% PVP-I oral and nasal spray to moderately ill COVID-19 positive patient
+1	0.5% Povidone Iodine
