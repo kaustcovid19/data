@@ -1,0 +1,7 @@
+#1.Counts	ClinicalTrial_Status	ClinicalTrial_Results
+-e 
+#2.Counts	ClinicalTrial Start Date
+-e 
+#3.Counts	ClinicalTrial End Date
+-e 
+4.Counts	Drugs in clinical trials
